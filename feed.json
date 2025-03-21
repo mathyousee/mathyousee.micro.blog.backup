@@ -7,11 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2025/03/20/march-madness-has-begun-my.html",
+				
+				"content_html": "<p>March Madness has begun! My day 1 upset picks have not panned out&hellip;but I have some aggressive picks down the stretch. I still have good upside but the odds seem longer already 🤞</p>\n",
+				"content_text": "March Madness has begun! My day 1 upset picks have not panned out...but I have some aggressive picks down the stretch. I still have good upside but the odds seem longer already 🤞\n",
+				"date_published": "2025-03-20T21:27:47-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/20/march-madness-has-begun-my.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/19/i-got-microblog-bookshelves-working.html",
+				
+				"content_html": "<p>I got micro.blog bookshelves working after a bit of fumbling around. Now I&rsquo;ve backfilled the books from this year. My active fiction book is <a href=\"https://micro.blog/books/9780316087544\">The Black Prism</a> by Brent Weeks 📚</p>\n",
+				"content_text": "I got micro.blog bookshelves working after a bit of fumbling around. Now I've backfilled the books from this year. My active fiction book is [The Black Prism](https://micro.blog/books/9780316087544) by Brent Weeks 📚 \n",
+				"date_published": "2025-03-19T17:55:50-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/19/i-got-microblog-bookshelves-working.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/18/got-out-to-long-lake.html",
+				
+				"content_html": "<p>Got out to Long Lake for some trail running tonight&hellip;good group of us out there! A bit slick and muddy in spots, but a wonderful time in the woods.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got out to Long Lake for some trail running tonight...good group of us out there! A bit slick and muddy in spots, but a wonderful time in the woods.\n\n<img src=\"uploads/2025/tnt-20250318.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-03-18T21:48:35-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/18/got-out-to-long-lake.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2025/03/17/every-time-i-see-this.html",
 				
 				"content_html": "<p>Every time I see this implementation of a bar graph I shake my head&hellip; It&rsquo;s just wrong in so many ways 😶‍🌫️</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Every time I see this implementation of a bar graph I shake my head... It's just wrong in so many ways 😶‍🌫️\n\n<img src=\"uploads/2025/86b0c92c8e.jpg\" width=\"334\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-17T18:40:52-06:00",
+				"date_published": "2025-03-17T19:40:52-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/17/every-time-i-see-this.html"
 			},
 			{
@@ -19,7 +44,7 @@
 				
 				"content_html": "<p>My son&rsquo;s first T-Wolves basketball game 🏀First 5,000 kids got an Ant jersey. Wolves won big!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My son's first T-Wolves basketball game 🏀First 5,000 kids got an Ant jersey. Wolves won big! \n\n<img src=\"uploads/2025/66cef3dd92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-16T20:22:18-06:00",
+				"date_published": "2025-03-16T21:22:18-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/16/my-sons-first-twolves-basketball.html"
 			},
 			{
@@ -27,23 +52,23 @@
 				
 				"content_html": "<p>Saw 6 deer out on my windy, rainy run today. Can you find all of them?</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Saw 6 deer out on my windy, rainy run today. Can you find all of them? \n\n<img src=\"uploads/2025/49accc169d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2025-03-15T18:24:28-06:00",
+				"date_published": "2025-03-15T19:24:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/15/saw-deer-out-on-my.html"
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/14/its-scenes-like-this-that.html",
 				
 				"content_html": "<p>It&rsquo;s scenes like this that make me grateful for trusted traveler programs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's scenes like this that make me grateful for trusted traveler programs. \n\n<img src=\"uploads/2025/e584fa5e04.jpg\" width=\"600\" height=\"392\" alt=\"\">\n",
-				"date_published": "2025-03-14T04:49:17-06:00",
+				"content_text": "It's scenes like this that make me grateful for trusted traveler programs. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/e584fa5e04.jpg\" width=\"600\" height=\"392\" alt=\"\">\n",
+				"date_published": "2025-03-14T05:49:17-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/14/its-scenes-like-this-that.html"
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/13/found-some-trails-out-in.html",
 				
 				"content_html": "<p>Found some trails out in the greater Boston area 🏃😊 though I got a bit of course&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Found some trails out in the greater Boston area 🏃😊 though I got a bit of course... \n\n<img src=\"uploads/2025/d0ac780478.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-13T21:44:59-06:00",
+				"content_text": "Found some trails out in the greater Boston area 🏃😊 though I got a bit of course... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d0ac780478.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-13T22:44:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/13/found-some-trails-out-in.html"
 			},
 			{
@@ -51,7 +76,7 @@
 				
 				"content_html": "<p>I appreciate the merchandising at this little bookstore.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I appreciate the merchandising at this little bookstore. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/726c5a26e1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-12T09:14:13-06:00",
+				"date_published": "2025-03-12T10:14:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/12/i-appreciate-the-merchandising-at.html"
 			},
 			{
@@ -59,7 +84,7 @@
 				
 				"content_html": "<p>Ran through every mud puddle I could find tonight. Surprised I stayed this clean.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ran through every mud puddle I could find tonight. Surprised I stayed this clean. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/af9e403ad2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-11T20:36:30-06:00",
+				"date_published": "2025-03-11T21:36:30-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/11/ran-through-every-mud-puddle.html"
 			},
 			{
@@ -67,7 +92,7 @@
 				
 				"content_html": "<p>With the nice weather yesterday my son tried his bike without training wheels, which was the bar to meet for getting his next (bigger and appropriately sized) bike. Found him some new wheels at a local bike shop.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "With the nice weather yesterday my son tried his bike without training wheels, which was the bar to meet for getting his next (bigger and appropriately sized) bike. Found him some new wheels at a local bike shop. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/753f770de8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-03-10T21:34:41-06:00",
+				"date_published": "2025-03-10T22:34:41-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/10/with-the-nice-weather-yesterday.html"
 			},
 			{
@@ -75,7 +100,7 @@
 				
 				"content_html": "<p>Broke my run into two parts yesterday, with brunch at <a href=\"https://theblockslp.com/\">The Block</a> in the middle. Definitely slower on the return voyage, but I think that was more the temp change (+20°) than the food in my stomach 🌡️</p>\n",
 				"content_text": "Broke my run into two parts yesterday, with brunch at [The Block](https://theblockslp.com/) in the middle. Definitely slower on the return voyage, but I think that was more the temp change (+20°) than the food in my stomach 🌡️\n",
-				"date_published": "2025-03-10T06:49:59-06:00",
+				"date_published": "2025-03-10T07:49:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/10/broke-my-run-into-two.html"
 			},
 			{
@@ -83,7 +108,7 @@
 				
 				"content_html": "<p>Didn&rsquo;t realize that Brandon Sanderson has a video about the <a href=\"https://youtu.be/0mC8dsQJK7w?si=ARpZvm2z4Er6Isy5\">suggested reading order</a> for his books. Of course he does. I&rsquo;ll take his advice and start with 📚 Mistborn&hellip;unless someone out there strongly suggests otherwise.</p>\n",
 				"content_text": "Didn't realize that Brandon Sanderson has a video about the [suggested reading order](https://youtu.be/0mC8dsQJK7w?si=ARpZvm2z4Er6Isy5) for his books. Of course he does. I'll take his advice and start with 📚 Mistborn...unless someone out there strongly suggests otherwise. \n",
-				"date_published": "2025-03-08T18:09:31-06:00",
+				"date_published": "2025-03-08T19:09:31-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/08/didnt-realize-that-brandon-sanderson.html"
 			},
 			{
@@ -91,7 +116,7 @@
 				
 				"content_html": "<p>What a fun time skiing with the fam, friends, and new friends at Giants Ridge!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "What a fun time skiing with the fam, friends, and new friends at Giants Ridge! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d9f61af50b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/6d270f05d3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9f97613787.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9b5fa0773e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-03-08T07:08:19-06:00",
+				"date_published": "2025-03-08T08:08:19-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/08/what-a-fun-time-skiing.html"
 			},
 			{
@@ -99,7 +124,7 @@
 				
 				"content_html": "<p>Snow Cat doing some grooming&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Snow Cat doing some grooming... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0892cb2424.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-03-06T21:30:25-06:00",
+				"date_published": "2025-03-06T22:30:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/06/snow-cat-doing-some-grooming.html"
 			},
 			{
@@ -107,23 +132,24 @@
 				
 				"content_html": "<p>Before and after&hellip; Blustering winds added a light coating after I passed through. ❄️ Hoping I can get out of the neighborhood&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Before and after... Blustering winds added a light coating after I passed through. ❄️ Hoping I can get out of the neighborhood... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/ac0da69193.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/110e3b2927.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-05T08:24:01-06:00",
+				"date_published": "2025-03-05T09:24:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/05/before-and-after-blustering-winds.html"
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/04/current-audiobook-started-over-the.html",
 				
 				"content_html": "<p>Current audiobook started over the weekend&hellip; so much more depth than the movies. I appreciate the intrigue.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current audiobook started over the weekend... so much more depth than the movies. I appreciate the intrigue. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/70721263a7.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-04T21:09:01-06:00",
-				"url": "https://notes.matthewcanderson.com/2025/03/04/current-audiobook-started-over-the.html"
+				"content_text": "Current audiobook started over the weekend... so much more depth than the movies. I appreciate the intrigue. \n\n<img src=\"uploads/2025/70721263a7.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-04T22:09:01-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/04/current-audiobook-started-over-the.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/03/got-out-for-a-nice.html",
 				
 				"content_html": "<p>Got out for a nice Muddy Monday run at Elm Creek. Sunny and 50 is still so weird for this time of year in MN. 🏃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Got out for a nice Muddy Monday run at Elm Creek. Sunny and 50 is still so weird for this time of year in MN. 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/90f1c526aa.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/880139d243.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-03T22:01:05-06:00",
+				"date_published": "2025-03-03T23:01:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/03/got-out-for-a-nice.html"
 			},
 			{
@@ -131,7 +157,7 @@
 				
 				"content_html": "<p>Pinewood derby build complete!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Pinewood derby build complete! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/5f0f5ed400.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-02T13:34:13-06:00",
+				"date_published": "2025-03-02T14:34:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/02/pinewood-derby-build-complete.html"
 			},
 			{
@@ -139,7 +165,7 @@
 				
 				"content_html": "<p>Skijammers Family day at Wild Mountain was a success! My daughter has made tremendous progress this season and it was a joy to have both kids skiing together today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Skijammers Family day at Wild Mountain was a success! My daughter has made tremendous progress this season and it was a joy to have both kids skiing together today.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9cd2fb6c9b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/e3a12edfed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-03-01T20:44:27-06:00",
+				"date_published": "2025-03-01T21:44:27-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/01/skijammers-family-day-at-wild.html"
 			},
 			{
@@ -147,7 +173,7 @@
 				
 				"content_html": "<p>Tonight&rsquo;s plans with the kids&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Tonight's plans with the kids... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/503df25448.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-28T18:50:37-06:00",
+				"date_published": "2025-02-28T19:50:37-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/28/tonights-plans-with-the-kids.html"
 			},
 			{
@@ -155,7 +181,7 @@
 				
 				"content_html": "<p>Listened to this podcast episode which chronicles a song (Rooms, by Megan Banning) that took a 40 year journey getting to live ears, then lets us hear the moment it arrived. Really cool. <a href=\"https://open.spotify.com/episode/3tLMq6ChYMO9FgUcmt4pZy?si=PgztyCmzTZycwp7dHaee-A\">Hyperfixed podcast: Two birds, one hundred stones</a></p>\n",
 				"content_text": "Listened to this podcast episode which chronicles a song (Rooms, by Megan Banning) that took a 40 year journey getting to live ears, then lets us hear the moment it arrived. Really cool. [Hyperfixed podcast: Two birds, one hundred stones](https://open.spotify.com/episode/3tLMq6ChYMO9FgUcmt4pZy?si=PgztyCmzTZycwp7dHaee-A)\n",
-				"date_published": "2025-02-27T12:49:09-06:00",
+				"date_published": "2025-02-27T13:49:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/27/listened-to-this-podcast-episode.html"
 			},
 			{
@@ -163,7 +189,7 @@
 				
 				"content_html": "<p>I&rsquo;m helping my son with his Pinewood Derby car. He designed it, we did the wood working today, and it&rsquo;s almost ready for painting. I&rsquo;ll bet his is the only one with a windhield when he races. 😎 🚗</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I'm helping my son with his Pinewood Derby car. He designed it, we did the wood working today, and it's almost ready for painting. I'll bet his is the only one with a windhield when he races. 😎 🚗\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9ba12fecf6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-26T20:21:07-06:00",
+				"date_published": "2025-02-26T21:21:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/26/im-helping-my-son-with.html"
 			},
 			{
@@ -171,7 +197,7 @@
 				
 				"content_html": "<p>While running near a marsh this morning I swear I could smell play-doh&hellip; Weird. 🏃</p>\n",
 				"content_text": "While running near a marsh this morning I swear I could smell play-doh... Weird. 🏃\n",
-				"date_published": "2025-02-26T10:06:36-06:00",
+				"date_published": "2025-02-26T11:06:36-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/26/while-running-near-a-marsh.html"
 			},
 			{
@@ -179,7 +205,7 @@
 				
 				"content_html": "<p>Despite being a bit slippery in some spots, it was a gorgeous morning for my run. It was really cool seeing the ground shimmer and sparkle like something out of a video game. Tough to capture in a still-shot but as I ran it was like a million mini sparkling lights ✨</p>\n",
 				"content_text": "Despite being a bit slippery in some spots, it was a gorgeous morning for my run. It was really cool seeing the ground shimmer and sparkle like something out of a video game. Tough to capture in a still-shot but as I ran it was like a million mini sparkling lights ✨ \n",
-				"date_published": "2025-02-25T21:23:32-06:00",
+				"date_published": "2025-02-25T22:23:32-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/25/despite-being-a-bit-slippery.html"
 			},
 			{
@@ -187,7 +213,7 @@
 				
 				"content_html": "<p>Finished reading 📚 The Late Show. Quick mystery/thriller. A nice palate cleanse before my next big fantasy novel.</p>\n",
 				"content_text": "Finished reading 📚 The Late Show. Quick mystery/thriller. A nice palate cleanse before my next big fantasy novel.\n",
-				"date_published": "2025-02-25T20:15:42-06:00",
+				"date_published": "2025-02-25T21:15:42-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/25/finished-reading-the-late-show.html"
 			},
 			{
@@ -195,7 +221,7 @@
 				
 				"content_html": "<p>Cub Scouts lessons tonight: American flag folding, boy who cried wolf.</p>\n",
 				"content_text": "Cub Scouts lessons tonight: American flag folding, boy who cried wolf. \n",
-				"date_published": "2025-02-24T20:37:44-06:00",
+				"date_published": "2025-02-24T21:37:44-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/24/cub-scouts-lessons-tonight-american.html"
 			},
 			{
@@ -203,7 +229,7 @@
 				
 				"content_html": "<p>Listened to the Robinhood CEO Vlad Tenov on the Hard Fork podcast&hellip; Was unimpressed and he squandered an opportunity to build trust  👎. Instead it was more like listening to a pure fanboy that&rsquo;s unwilling to acknowledge any grey area. Episode: <a href=\"https://open.spotify.com/episode/2vCQLdOb6MN7LBqvpBxhFb?si=1MkEMgQBRpy7AUn2cPcgnA&amp;t=1503708\">Hard Fork podcast, interview starts at ~25:05</a></p>\n",
 				"content_text": "Listened to the Robinhood CEO Vlad Tenov on the Hard Fork podcast... Was unimpressed and he squandered an opportunity to build trust  👎. Instead it was more like listening to a pure fanboy that's unwilling to acknowledge any grey area. Episode: [Hard Fork podcast, interview starts at ~25:05](https://open.spotify.com/episode/2vCQLdOb6MN7LBqvpBxhFb?si=1MkEMgQBRpy7AUn2cPcgnA&t=1503708) \n",
-				"date_published": "2025-02-24T11:45:05-06:00",
+				"date_published": "2025-02-24T12:45:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/24/listened-to-the-robinhood-ceo.html"
 			},
 			{
@@ -211,7 +237,7 @@
 				
 				"content_html": "<p>I did my run later in the afternoon today&hellip;in shorts! (in MN in February) It was still 50° when I started but it definitely felt colder 90 mins later as the sun went down.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "I did my run later in the afternoon today...in shorts! (in MN in February) It was still 50° when I started but it definitely felt colder 90 mins later as the sun went down. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/e775e61593.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/5794be477c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-23T20:06:28-06:00",
+				"date_published": "2025-02-23T21:06:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/23/i-did-my-run-later.html"
 			},
 			{
@@ -219,7 +245,7 @@
 				
 				"content_html": "<p>Pinewood derby planning this morning&hellip; A couple of first timers, but the plan is coming together 🚗🏁</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Pinewood derby planning this morning... A couple of first timers, but the plan is coming together 🚗🏁\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3dfbd3c527.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/00ab66b8a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-23T12:43:28-06:00",
+				"date_published": "2025-02-23T13:43:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/23/pinewood-derby-planning-this-morning.html"
 			},
 			{
@@ -227,7 +253,7 @@
 				
 				"content_html": "<p>Getting excited for the new Vulfpeck album. As a bad player I can help but love this solos but the groove is so tasty ❤️🎶🎧 <a href=\"https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh?si=Kb9stjd1RseUrGbztLvqzA\">Vulfpeck - New Beastly</a></p>\n",
 				"content_text": "Getting excited for the new Vulfpeck album. As a bad player I can help but love this solos but the groove is so tasty ❤️🎶🎧 [Vulfpeck - New Beastly](https://open.spotify.com/track/5PU1tTZlTnhaz2QRJGKNPh?si=Kb9stjd1RseUrGbztLvqzA) \n",
-				"date_published": "2025-02-23T08:38:40-06:00",
+				"date_published": "2025-02-23T09:38:40-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/23/getting-excited-for-the-new.html"
 			},
 			{
@@ -235,7 +261,7 @@
 				
 				"content_html": "<p>It was a perfect day for skiing at <a href=\"https://trollhaugen.com/\">Trollhaugen</a>. Got out with my youngest along with the SkiJammers sibling group. He&rsquo;s made so much progress this year! Feel so fortunate to have a group of families with similarly-aged kids who are also interested in skiing.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "It was a perfect day for skiing at [Trollhaugen](https://trollhaugen.com/). Got out with my youngest along with the SkiJammers sibling group. He's made so much progress this year! Feel so fortunate to have a group of families with similarly-aged kids who are also interested in skiing.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-104343.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-105232.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/img-20250222-170300.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-22T20:53:46-06:00",
+				"date_published": "2025-02-22T21:53:46-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/22/it-was-a-perfect-day.html"
 			},
 			{
@@ -243,7 +269,7 @@
 				
 				"content_html": "<p>Broke up my run into two parts today&hellip; That&rsquo;s how the schedule worked out. Part 2 was warmer than part 1.</p>\n<p>Looking forward to the weekend 🌞</p>\n",
 				"content_text": "Broke up my run into two parts today... That's how the schedule worked out. Part 2 was warmer than part 1.\n\nLooking forward to the weekend 🌞\n",
-				"date_published": "2025-02-21T17:37:05-06:00",
+				"date_published": "2025-02-21T18:37:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/21/broke-up-my-run-into.html"
 			},
 			{
@@ -251,7 +277,7 @@
 				
 				"content_html": "<p>Had a work event at <a href=\"https://officegolf.com/\">Office Golf</a> today, it was a lot of fun! I didn&rsquo;t bring my own clubs (they&rsquo;re away for the season) but it was still good to stroke a few. I&rsquo;d definitely go back!</p>\n",
 				"content_text": "Had a work event at [Office Golf](https://officegolf.com/) today, it was a lot of fun! I didn't bring my own clubs (they're away for the season) but it was still good to stroke a few. I'd definitely go back!\n",
-				"date_published": "2025-02-20T21:53:48-06:00",
+				"date_published": "2025-02-20T22:53:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/20/had-a-work-event-at.html"
 			},
 			{
@@ -259,7 +285,7 @@
 				
 				"content_html": "<p>My body is continuing to recover from the race last week&hellip; And it&rsquo;s still cold outside. Before and after picture from my run this morning. 🏃</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My body is continuing to recover from the race last week... And it's still cold outside. Before and after picture from my run this morning. 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a296748a7d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-20T14:45:02-06:00",
+				"date_published": "2025-02-20T15:45:02-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/20/my-body-is-continuing-to.html"
 			},
 			{
@@ -267,7 +293,7 @@
 				
 				"content_html": "<p>Always get a laugh when I come back to missed chats and one of them is a super long thread of devs posting numbers for agile planning poker 🃏</p>\n",
 				"content_text": "Always get a laugh when I come back to missed chats and one of them is a super long thread of devs posting numbers for agile planning poker 🃏\n",
-				"date_published": "2025-02-19T11:15:31-06:00",
+				"date_published": "2025-02-19T12:15:31-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/19/always-get-a-laugh-when.html"
 			},
 			{
@@ -275,7 +301,7 @@
 				
 				"content_html": "<p>Deposited my quarterly Solar Rebate this morning. Love being energy neutral at home. Still on track for &lt;10 year payback on the investment in solar panels.</p>\n",
 				"content_text": "Deposited my quarterly Solar Rebate this morning. Love being energy neutral at home. Still on track for <10 year payback on the investment in solar panels. \n",
-				"date_published": "2025-02-19T08:17:07-06:00",
+				"date_published": "2025-02-19T09:17:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/19/deposited-my-quarterly-solar-rebate.html"
 			},
 			{
@@ -283,7 +309,7 @@
 				
 				"content_html": "<p>After mentioning my journal, I thought I&rsquo;d post a link to the publisher of my 10-year journal&hellip;but they appear to be out of business! ☹️ I have a couple of years before I <em>need</em> my next volume, but it&rsquo;s sad to see they last published in 2022. &ndash;<a href=\"https://www.journal10.com/\">Journal10</a></p>\n",
 				"content_text": "After mentioning my journal, I thought I'd post a link to the publisher of my 10-year journal...but they appear to be out of business! ☹️ I have a couple of years before I *need* my next volume, but it's sad to see they last published in 2022. --[Journal10](https://www.journal10.com/)\n",
-				"date_published": "2025-02-18T21:22:21-06:00",
+				"date_published": "2025-02-18T22:22:21-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/18/after-mentioning-my-journal-i.html"
 			},
 			{
@@ -291,7 +317,7 @@
 				
 				"content_html": "<p>Still very cold out there today, our kids school start was delayed to let things warm up, other schools are canceling outright. I suppose it has warmed up a bit&hellip;</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Still very cold out there today, our kids school start was delayed to let things warm up, other schools are canceling outright. I suppose it has warmed up a bit... \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/4720151170.jpg\" width=\"600\" height=\"496\" alt=\"\">\n",
-				"date_published": "2025-02-18T09:41:09-06:00",
+				"date_published": "2025-02-18T10:41:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/18/still-very-cold-out-there.html"
 			},
 			{
@@ -299,7 +325,7 @@
 				
 				"content_html": "<p>My wife and I have really enjoyed playing <a href=\"https://boardgamegeek.com/boardgame/266192/wingspan\">Wingspan</a>. Fun, competitive (but not cutthroat), and gorgeous.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My wife and I have really enjoyed playing [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan). Fun, competitive (but not cutthroat), and gorgeous. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/acc62c62d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-17T21:59:01-06:00",
+				"date_published": "2025-02-17T22:59:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/17/my-wife-and-i-have.html"
 			},
 			{
@@ -307,7 +333,7 @@
 				
 				"content_html": "<p>Productive day in the cold:</p>\n<ul>\n<li>worked with the fam on some tidying projects</li>\n<li>cleaned some food out of the pantry that&rsquo;s been there long enough</li>\n<li>played some Uno Flip with my daughter</li>\n<li>updated my navigation and social links on my personal website <a href=\"https://www.matthewcanderson.com\">matthewcanderson.com</a></li>\n<li>caught up on my <a href=\"https://www.matthewcanderson.com/reflecting-on-4000-daily-journals/\">paper journal</a></li>\n</ul>\n",
 				"content_text": "Productive day in the cold:\r\n\r\n- worked with the fam on some tidying projects\r\n- cleaned some food out of the pantry that's been there long enough\r\n- played some Uno Flip with my daughter\r\n- updated my navigation and social links on my personal website [matthewcanderson.com](https://www.matthewcanderson.com)\r\n- caught up on my [paper journal](https://www.matthewcanderson.com/reflecting-on-4000-daily-journals/)\n",
-				"date_published": "2025-02-17T17:32:19-06:00",
+				"date_published": "2025-02-17T18:32:19-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/17/productive-day-in-the-cold.html"
 			},
 			{
@@ -315,7 +341,7 @@
 				
 				"content_html": "<p>Another one of those chilly days today&hellip; Grateful to have a nice warm home and the choice to stay in.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Another one of those chilly days today... Grateful to have a nice warm home and the choice to stay in. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/21c0bff866.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-17T08:18:08-06:00",
+				"date_published": "2025-02-17T09:18:08-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/17/another-one-of-those-chilly.html"
 			},
 			{
@@ -323,7 +349,7 @@
 				
 				"content_html": "<p>Got out for a nice 🌞🏃 today, even though it&rsquo;s cold out there. Wrapping a light mileage week after a race, feeling stronger each day, will continue ramping this week.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Got out for a nice 🌞🏃 today, even though it's cold out there. Wrapping a light mileage week after a race, feeling stronger each day, will continue ramping this week. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/dfd3067128.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-16T11:36:42-06:00",
+				"date_published": "2025-02-16T12:36:42-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/16/got-out-for-a-nice.html"
 			},
 			{
@@ -331,7 +357,7 @@
 				
 				"content_html": "<p>Boys will be boys (watching USA Vs Canada hockey)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Boys will be boys (watching USA Vs Canada hockey) \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/6d5837abb6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-15T21:21:09-06:00",
+				"date_published": "2025-02-15T22:21:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/15/boys-will-be-boys-watching.html"
 			},
 			{
@@ -339,7 +365,7 @@
 				
 				"content_html": "<p>Cub Scouts ice fishing day was a bust, but H said &ldquo;that&rsquo;s okay&hellip;let&rsquo;s make our own fun.&rdquo; So we did 🌞</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Cub Scouts ice fishing day was a bust, but H said \"that's okay...let's make our own fun.\" So we did 🌞 \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/c4235a3b76.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://mathyousee.micro.blog/uploads/2025/4da7e4c8f1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-15T13:42:39-06:00",
+				"date_published": "2025-02-15T14:42:39-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/15/cub-scouts-ice-fishing-day.html"
 			},
 			{
@@ -347,7 +373,7 @@
 				
 				"content_html": "<p>Watched <a href=\"https://www.themoviedb.org/movie/1059064-the-instigators\">The Instigators</a> 🍿👍</p>\n",
 				"content_text": "Watched [The Instigators](https://www.themoviedb.org/movie/1059064-the-instigators) 🍿👍\n",
-				"date_published": "2025-02-14T23:47:44-06:00",
+				"date_published": "2025-02-15T00:47:44-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/14/watched-the-instigators.html"
 			},
 			{
@@ -355,7 +381,7 @@
 				
 				"content_html": "<p>I&rsquo;ve started back into <a href=\"https://micro.blog/books/9781250252081\">A Crown of Swords</a> by Robert Jordan 📚 I&rsquo;d made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.</p>\n",
 				"content_text": "I've started back into [A Crown of Swords](https://micro.blog/books/9781250252081) by Robert Jordan 📚 I'd made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.\n",
-				"date_published": "2025-02-14T21:31:54-06:00",
+				"date_published": "2025-02-14T22:31:54-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/14/currently-reading-a-crown-of.html"
 			},
 			{
@@ -363,7 +389,7 @@
 				
 				"content_html": "<p>I felt ready to get out running again today&hellip; my Garmin agreed (after a couple days at 1 then 19). It&rsquo;s a lot colder out back home in Minny compared to Arizona. Still glad to get back out there!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I felt ready to get out running again today... my Garmin agreed (after a couple days at 1 then 19). It's a lot colder out back home in Minny compared to Arizona. Still glad to get back out there! \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d537ac2d07.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-14T09:59:03-06:00",
+				"date_published": "2025-02-14T10:59:03-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/14/i-felt-ready-to-get.html"
 			},
 			{
@@ -371,7 +397,7 @@
 				
 				"content_html": "<p>I&rsquo;m hoping I&rsquo;ll be recovered enough to get out running tomorrow. Signs are good based on the game of tag with my kids tonight 🌞</p>\n",
 				"content_text": "I'm hoping I'll be recovered enough to get out running tomorrow. Signs are good based on the game of tag with my kids tonight 🌞\n",
-				"date_published": "2025-02-13T19:03:49-06:00",
+				"date_published": "2025-02-13T20:03:49-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/13/im-hoping-ill-be-recovered.html",
 				"tags": ["note"]
 			},
@@ -380,7 +406,7 @@
 				
 				"content_html": "<p>Using the recovery room at my running gym. Normatec sleeves have been a great help to get my legs get back to normal after a race.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Using the recovery room at my running gym. Normatec sleeves have been a great help to get my legs get back to normal after a race.\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/1201c3bf42.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-12T08:06:33-06:00",
+				"date_published": "2025-02-12T09:06:33-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/12/using-the-recovery-room-at.html"
 			},
 			{
@@ -388,7 +414,7 @@
 				
 				"content_html": "<p>Ran the Black Canyon Ultras 50K today! What a blast..but now I&rsquo;m exhausted 🎽🏃‍➡️🪨🚀🍕🍗🏈🥣🛌</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Ran the Black Canyon Ultras 50K today! What a blast..but now I'm exhausted 🎽🏃‍➡️🪨🚀🍕🍗🏈🥣🛌\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d071f6f141.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2025-02-09T20:12:35-06:00",
+				"date_published": "2025-02-09T21:12:35-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/09/ran-the-black-canyon-ultras.html"
 			},
 			{
@@ -396,7 +422,7 @@
 				
 				"content_html": "<p>Hiking near Sedona is really pretty&hellip; This is Red Rock Secret Mountain</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hiking near Sedona is really pretty... This is Red Rock Secret Mountain\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-07T16:36:59-06:00",
+				"date_published": "2025-02-07T17:36:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/07/hiking-near-sedona-is-really.html"
 			},
 			{
@@ -404,7 +430,7 @@
 				
 				"content_html": "<p>I was today years old when I first saw the Grand Canyon in person. Wow.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I was today years old when I first saw the Grand Canyon in person. Wow.\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/20250206-123940.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-02-06T20:47:04-06:00",
+				"date_published": "2025-02-06T21:47:04-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/06/i-was-today-years-old.html",
 				"tags": ["note"]
 			},
@@ -413,7 +439,7 @@
 				"title": "First Post",
 				"content_html": "<p>Welcome to my corner of the internet! This is my very first post on Micro.blog, and I&rsquo;m thrilled to start this journey with you all. 🌟</p>\n<p>A little about me: I&rsquo;m passionate about making memories with my kids, and I love sharing my thoughts and experiences on technology, running, and random thoughts.</p>\n<p>Why Micro.blog? I&rsquo;m choosing this platform because of its simplicity and the wonderful community it fosters. I&rsquo;m hoping that Micro.blog will let me radically simplify my posting process and give me an outlet for little notes that aren&rsquo;t longer blog posts. It&rsquo;s a place where I can share my ideas, connect with like-minded individuals, and grow as a writer and creator.</p>\n<p>Stay tuned for more posts, and feel free to reach out and say hi! Let&rsquo;s embark on this adventure together.</p>\n",
 				"content_text": "Welcome to my corner of the internet! This is my very first post on Micro.blog, and I'm thrilled to start this journey with you all. 🌟\n\n\nA little about me: I'm passionate about making memories with my kids, and I love sharing my thoughts and experiences on technology, running, and random thoughts.\n\n\nWhy Micro.blog? I'm choosing this platform because of its simplicity and the wonderful community it fosters. I'm hoping that Micro.blog will let me radically simplify my posting process and give me an outlet for little notes that aren't longer blog posts. It's a place where I can share my ideas, connect with like-minded individuals, and grow as a writer and creator.\n\n\nStay tuned for more posts, and feel free to reach out and say hi! Let's embark on this adventure together.\n",
-				"date_published": "2025-01-25T20:42:24-06:00",
+				"date_published": "2025-01-25T21:42:24-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/01/25/first-post.html"
 			}
 	]
