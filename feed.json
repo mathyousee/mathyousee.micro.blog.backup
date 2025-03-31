@@ -7,6 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/spent-a-good-hours-pondering.html",
+				
+				"content_html": "<p>Spent a good 3 hours pondering different aspects of some of my upcoming races for the year. I&rsquo;m thinking about several, but the Kettle Moraine 100k has taken the most mindshare. It&rsquo;ll be my longest race so far. While I&rsquo;m confident I&rsquo;ll be ready, it&rsquo;s still taking up a fair bit of headspace.</p>\n",
+				"content_text": "\nSpent a good 3 hours pondering different aspects of some of my upcoming races for the year. I'm thinking about several, but the Kettle Moraine 100k has taken the most mindshare. It'll be my longest race so far. While I'm confident I'll be ready, it's still taking up a fair bit of headspace.\n",
+				"date_published": "2025-03-30T23:11:16-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/spent-a-good-hours-pondering.html",
+				"tags": ["note"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/finished-reading-the-sorcerers-daughter.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345540829\">The Sorcerer&rsquo;s Daughter</a> by Terry Brooks 📚 nice little trilogy</p>\n",
+				"content_text": "Finished reading: [The Sorcerer's Daughter](https://micro.blog/books/9780345540829) by Terry Brooks 📚 nice little trilogy\n",
+				"date_published": "2025-03-30T20:12:31-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/finished-reading-the-sorcerers-daughter.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/had-a-great-trail-run.html",
+				
+				"content_html": "<p>Had a great trail run in the rain today&hellip; #smarch</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had a great trail run in the rain today... #smarch\n\n<img src=\"uploads/2025/61af7e0413.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-03-30T19:52:12-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/had-a-great-trail-run.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/the-postwithimage-test-took-a.html",
+				
+				"content_html": "<p>The post-with-image test took a little more work than I&rsquo;d hoped. The micro.publish plugin didn&rsquo;t automatically upload the image and update my image link. I needed to upload separately then copy over the markdown myself (less than ideal, but doable)</p>\n",
+				"content_text": "\nThe post-with-image test took a little more work than I'd hoped. The micro.publish plugin didn't automatically upload the image and update my image link. I needed to upload separately then copy over the markdown myself (less than ideal, but doable)\n",
+				"date_published": "2025-03-30T00:29:56-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/the-postwithimage-test-took-a.html",
+				"tags": ["note"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/trying-a-second-post-this.html",
+				
+				"content_html": "<p>Trying a second post, this time it&rsquo;ll be one that includes a picture. This one was from the Ron Daws race I ran earlier today.\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/rondawsprerace20250330002106.png\" alt=\"\">\n(see above)</p>\n",
+				"content_text": "\nTrying a second post, this time it'll be one that includes a picture. This one was from the Ron Daws race I ran earlier today.\n![](https://notes.matthewcanderson.com/uploads/2025/rondawsprerace20250330002106.png)\n(see above)\n",
+				"date_published": "2025-03-30T00:22:51-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/trying-a-second-post-this.html",
+				"tags": ["note"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/30/i-primarily-use-windows-for.html",
+				
+				"content_html": "<p>I primarily use Windows for my day-to-day, and Obsidian may be useful for my blogging workflow. Giving it a shot with the micro.publish plugin. This is a test, it is only a test (though I&rsquo;ll keep it here for posterity).</p>\n",
+				"content_text": "\nI primarily use Windows for my day-to-day, and Obsidian may be useful for my blogging workflow. Giving it a shot with the micro.publish plugin. This is a test, it is only a test (though I'll keep it here for posterity).\n",
+				"date_published": "2025-03-30T00:11:17-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/30/i-primarily-use-windows-for.html",
+				"tags": ["note"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/29/ran-in-the-ron-daws.html",
+				
+				"content_html": "<p>Ran in the Ron Daws 25K today&hellip; The rain held off and I ended up with a surprise half marathon PR (plus 2.5 bonus miles). I&rsquo;m feeling good at this early point on the season. 😊🏃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Ran in the Ron Daws 25K today... The rain held off and I ended up with a surprise half marathon PR (plus 2.5 bonus miles). I'm feeling good at this early point on the season. 😊🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/75ff26a54b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9953112401.jpg\" width=\"373\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-29T15:03:54-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/29/ran-in-the-ron-daws.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/28/had-breakfast-with-a-friend.html",
+				
+				"content_html": "<p>Had breakfast with a friend and colleague this week. Love getting out to Benedict&rsquo;s!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had breakfast with a friend and colleague this week. Love getting out to Benedict's! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a964875c6e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-28T23:25:05-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/28/had-breakfast-with-a-friend.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/27/i-hope-he-can-always.html",
+				
+				"content_html": "<p>I hope he can always appreciate the simple pleasure of reading out loud to the dog. 💌</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I hope he can always appreciate the simple pleasure of reading out loud to the dog. 💌\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1a4c01b260.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-27T18:43:25-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/27/i-hope-he-can-always.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/03/26/jersey-mikes-for-lunch-today.html",
+				
+				"content_html": "<p>Jersey Mike&rsquo;s for lunch today, they&rsquo;re donating 100% of sales (not just profits) to Special Olympics. Tasty&hellip; 😋</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Jersey Mike's for lunch today, they're donating 100% of sales (not just profits) to Special Olympics. Tasty... 😋 \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/074c5229c2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-03-26T18:40:16-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/03/26/jersey-mikes-for-lunch-today.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2025/03/25/tonight-i-finished-reading-the.html",
 				
 				"content_html": "<p>Tonight I finished reading: <a href=\"https://micro.blog/books/9780345540805\">The Darkling Child</a> by Terry Brooks 📚 I like having some shorter books like this that I can crank through before driving into another big one.</p>\n",
@@ -45,7 +130,7 @@
 				"id": "http://mathyousee.micro.blog/2025/03/22/great-group-run-today-the.html",
 				
 				"content_html": "<p>Great group run today. The sun felt warm on a crisp morning ☀️🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Great group run today. The sun felt warm on a crisp morning ☀️🏃\n\n<img src=\"uploads/2025/6d03598e67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Great group run today. The sun felt warm on a crisp morning ☀️🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/6d03598e67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-22T23:01:19-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/22/great-group-run-today-the.html"
 			},
@@ -53,7 +138,7 @@
 				"id": "http://mathyousee.micro.blog/2025/03/22/did-a-lateseason-fire-this.html",
 				
 				"content_html": "<p>Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom&rsquo;s iPad&hellip;my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book <a href=\"https://micro.blog/books/9781891369902\">Relentless Forward Progress</a> 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom's iPad...my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book [Relentless Forward Progress](https://micro.blog/books/9781891369902) 📚\n\n<img src=\"uploads/2025/20250322-181251.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom's iPad...my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book [Relentless Forward Progress](https://micro.blog/books/9781891369902) 📚\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/20250322-181251.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-22T20:17:02-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/22/did-a-lateseason-fire-this.html",
 				"tags": ["books"]
