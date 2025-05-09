@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2025/05/08/no-school-today-because-nice.html",
+				
+				"content_html": "<p>No school today&hellip; Because.? Nice that they could get a mix of video games, outside play, and classic Inspector Gadget cartoons 💻 📖🚨</p>\n",
+				"content_text": "No school today... Because.? Nice that they could get a mix of video games, outside play, and classic Inspector Gadget cartoons 💻 📖🚨\n",
+				"date_published": "2025-05-08T22:45:27-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/08/no-school-today-because-nice.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/06/great-day-for-running-shorts.html",
+				
+				"content_html": "<p>Great day for running. Shorts and shirt sleeves 🌞🏃</p>\n",
+				"content_text": "Great day for running. Shorts and shirt sleeves 🌞🏃\n",
+				"date_published": "2025-05-06T21:45:24-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/06/great-day-for-running-shorts.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/05/finished-reading-high-profile-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399154041\">High Profile</a> by Robert B. Parker 📚</p>\n",
+				"content_text": "Finished reading: [High Profile](https://micro.blog/books/9780399154041) by Robert B. Parker 📚\n",
+				"date_published": "2025-05-05T22:32:36-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/05/finished-reading-high-profile-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/03/new-to-me-boat-day.html",
+				
+				"content_html": "<p>New (to me) boat day! The weather cooperated beautifully&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New (to me) boat day! The weather cooperated beautifully... \n\n<img src=\"uploads/2025/5a921a9988.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-05-03T17:19:11-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/03/new-to-me-boat-day.html",
+				"tags": ["note"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2025/05/02/i-got-this-spam-marketing.html",
 				
 				"content_html": "<p>I got this <del>spam</del> marketing email a few hours ago and have been trying to process this combination of things that Instacart has grouped together for me. It does sound intriguing&ndash;I hadn&rsquo;t considered Casamigos, Taco Bell, and Tostitos as an order&ndash;but I don&rsquo;t think this ad will convert.</p>\n<!-- raw HTML omitted -->\n",
@@ -61,7 +95,7 @@
 				"id": "http://mathyousee.micro.blog/2025/04/26/pickled-beats-at-the-mound.html",
 				
 				"content_html": "<p>Pickled Beats at the Mound Legion 🎸🥁🎤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pickled Beats at the Mound Legion 🎸🥁🎤\n\n<img src=\"uploads/2025/1850a8ce68.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Pickled Beats at the Mound Legion 🎸🥁🎤\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1850a8ce68.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-26T22:55:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/26/pickled-beats-at-the-mound.html"
 			},
