@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2025/06/06/finished-reading-the-midnight-line.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399593505\">The Midnight Line</a> by Lee Child 📚</p>\n",
+				"content_text": "Finished reading: [The Midnight Line](https://micro.blog/books/9780399593505) by Lee Child 📚\n",
+				"date_published": "2025-06-06T20:00:07-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/06/06/finished-reading-the-midnight-line.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/06/02/watched-rogue-one-a-star.html",
+				
+				"content_html": "<p>Watched <a href=\"https://www.themoviedb.org/movie/330459-rogue-one-a-star-wars-story\">Rogue One: A Star Wars Story</a> 🎥🍿</p>\n",
+				"content_text": "Watched [Rogue One: A Star Wars Story](https://www.themoviedb.org/movie/330459-rogue-one-a-star-wars-story) 🎥🍿\n",
+				"date_published": "2025-06-02T22:28:45-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/06/02/watched-rogue-one-a-star.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/06/02/today-i-learned-that-the.html",
+				
+				"content_html": "<p>Today I learned that the MSP Terminal 1 Caribou by F/G gate split has an XL size&hellip;didn&rsquo;t need it today but there are definitely those days where I&rsquo;ll take advantage ☕☕☕</p>\n",
+				"content_text": "Today I learned that the MSP Terminal 1 Caribou by F/G gate split has an XL size...didn't need it today but there are definitely those days where I'll take advantage ☕☕☕\n",
+				"date_published": "2025-06-02T19:50:53-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/06/02/today-i-learned-that-the.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/31/finished-reading-the-affair-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780440246305\">The Affair</a> by Lee Child 📚</p>\n",
+				"content_text": "Finished reading: [The Affair](https://micro.blog/books/9780440246305) by Lee Child 📚\n",
+				"date_published": "2025-05-31T16:25:00-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/31/finished-reading-the-affair-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/31/celebrated-my-th-wedding-anniversary.html",
+				
+				"content_html": "<p>Celebrated my 15th wedding anniversary at the Dakota last night. Fantastic show!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Celebrated my 15th wedding anniversary at the Dakota last night. Fantastic show! \n\n<img src=\"uploads/2025/519e8aebe8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/83d01bad86.jpg\" width=\"600\" height=\"458\" alt=\"\">\n",
+				"date_published": "2025-05-31T09:14:24-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/31/celebrated-my-th-wedding-anniversary.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/05/29/soccer-game-for-my-sons.html",
+				
+				"content_html": "<p>Soccer game 2 for my son&rsquo;s squad. It&rsquo;s amazing the difference practice makes 🤣⚽</p>\n",
+				"content_text": "Soccer game 2 for my son's squad. It's amazing the difference practice makes 🤣⚽\n",
+				"date_published": "2025-05-29T20:16:15-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/05/29/soccer-game-for-my-sons.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2025/05/28/just-finished-mission-impossible-the.html",
 				
 				"content_html": "<p>Just finished <a href=\"https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning\">Mission: Impossible – The Final Reckoning</a>. Slow start but fun action 🍿 🎥</p>\n",
@@ -45,7 +95,7 @@
 				"id": "http://mathyousee.micro.blog/2025/05/20/wet-runs-today-got-in.html",
 				
 				"content_html": "<p>Wet runs today&hellip; Got in 13 rainy and wonderful miles ☔🏃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wet runs today... Got in 13 rainy and wonderful miles ☔🏃\n\n<img src=\"uploads/2025/0140cf5cd4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wet runs today... Got in 13 rainy and wonderful miles ☔🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0140cf5cd4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-20T18:16:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/20/wet-runs-today-got-in.html"
 			},
