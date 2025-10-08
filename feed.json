@@ -1,32 +1,216 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Matt Anderson",
-	"icon": "https://micro.blog/mathyousee/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/05/1717379.jpg",
 	"home_page_url": "https://notes.matthewcanderson.com/",
 	"feed_url": "https://notes.matthewcanderson.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2025/10/08/heres-an-example-of-seeing.html",
+				
+				"content_html": "<p>Here&rsquo;s an example of seeing photos I&rsquo;ve taken at the same spot on runs over time. I like how I can see the history of a location. It&rsquo;s also nice for marking where an off trail cache may live&hellip; 🧻🏃</p>\n<img src=\"uploads/2025/46f20ce455.png\" width=\"285\" height=\"600\" alt=\"\">\n",
+				"content_text": "Here's an example of seeing photos I've taken at the same spot on runs over time. I like how I can see the history of a location. It's also nice for marking where an off trail cache may live... 🧻🏃\n\n<img src=\"uploads/2025/46f20ce455.png\" width=\"285\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-08T18:19:02-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/10/08/heres-an-example-of-seeing.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/10/04/i-just-finished-reading-elantris.html",
+				
+				"content_html": "<p>I just finished reading <a href=\"https://openlibrary.org/books/OL37383271M/Elantris\"><em>Elantris</em></a> by Brandon Sanderson — this was fantastic!! I knocked this out fast&hellip; Loved it.</p>\n<p><img src=\"https://covers.openlibrary.org/b/isbn/9780765381026-L.jpg\" alt=\"Elantris Book Cover\">)</p>\n",
+				"content_text": "I just finished reading [*Elantris*](https://openlibrary.org/books/OL37383271M/Elantris) by Brandon Sanderson — this was fantastic!! I knocked this out fast... Loved it.\n\n![Elantris Book Cover](https://covers.openlibrary.org/b/isbn/9780765381026-L.jpg))\n",
+				"date_published": "2025-10-04T17:06:50-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/10/04/i-just-finished-reading-elantris.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/10/03/got-out-on-a-shakeout.html",
+				
+				"content_html": "<p>Got out on a shakeout run with elite ultra runner Courtney Dauwalter&hellip; So cool that she grew up in Hopkins! I&rsquo;m literally standing next to one of the top 5 endurance athletes in the world (and you&rsquo;d never know it). Met her husband as well and talked with him for 15 minutes. Great night!</p>\n<img src=\"uploads/2025/e9c3919659.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got out on a shakeout run with elite ultra runner Courtney Dauwalter... So cool that she grew up in Hopkins! I'm literally standing next to one of the top 5 endurance athletes in the world (and you'd never know it). Met her husband as well and talked with him for 15 minutes. Great night!\n\n<img src=\"uploads/2025/e9c3919659.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-10-03T19:52:01-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/10/03/got-out-on-a-shakeout.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/30/got-the-boat-out-of.html",
+				
+				"content_html": "<p>Got the boat out of the water and off for winterization and storage. Really happy with our new (to us) boat purchase this year!</p>\n<img src=\"uploads/2025/cd1671d311.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Got the boat out of the water and off for winterization and storage. Really happy with our new (to us) boat purchase this year!\n\n<img src=\"uploads/2025/cd1671d311.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-30T23:16:53-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/30/got-the-boat-out-of.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/29/outdoor-adventure-with-the-cub.html",
+				
+				"content_html": "<p>Outdoor adventure with the cub scouts tonight!</p>\n<img src=\"uploads/2025/3bf0f34707.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Outdoor adventure with the cub scouts tonight!\n\n<img src=\"uploads/2025/3bf0f34707.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-29T19:48:49-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/29/outdoor-adventure-with-the-cub.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/28/a-friend-of-mine-told.html",
+				
+				"content_html": "<p>A friend of mine told me about Athletic Brewing Co&rsquo;s <a href=\"https://athleticbrewing.com/pages/athletic-club-membership\">NA beer club</a>. I&rsquo;ve been a fan of their beer and am excited to try the members-only flavors. <strong>First Ride</strong> is tasty (and caffeinated).</p>\n<img src=\"uploads/2025/079cd679d8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A friend of mine told me about Athletic Brewing Co's [NA beer club](https://athleticbrewing.com/pages/athletic-club-membership). I've been a fan of their beer and am excited to try the members-only flavors. **First Ride** is tasty (and caffeinated).\n\n<img src=\"uploads/2025/079cd679d8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-28T15:43:37-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/28/a-friend-of-mine-told.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/27/apple-orchard-day-fall-harvest.html",
+				
+				"content_html": "<p>Apple orchard day! Fall Harvest Orchard keeps becoming more of a zoo every year. It&rsquo;s more of a carnival than it is an apple picking experience. Still got this photo of the kiddos.</p>\n<img src=\"uploads/2025/d78fd98c41.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Apple orchard day! Fall Harvest Orchard keeps becoming more of a zoo every year. It's more of a carnival than it is an apple picking experience. Still got this photo of the kiddos.\n\n<img src=\"uploads/2025/d78fd98c41.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-09-27T18:55:45-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/27/apple-orchard-day-fall-harvest.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/26/devaluation-of-ai-assistance.html",
+				"title": "Devaluation of AI assistance",
+				"content_html": "<p>This puts a box around a phenomenon I&rsquo;ve been seeing. While there are real challenges with AI slop, quality AI assisted work is devalued.</p>\n<blockquote>\n<p>Our experiment showed no quality difference in AI-assisted work&hellip; This disconnect reveals the path forward—shift from evaluating how work is done to what is accomplished. Replace subjective competence ratings with objective metrics such as cycle time, accuracy, defect rates.</p>\n</blockquote>\n<p><a href=\"https://hbr.org/2025/08/research-the-hidden-penalty-of-using-ai-at-work\">https://hbr.org/2025/08/research-the-hidden-penalty-of-using-ai-at-work</a></p>\n",
+				"content_text": "This puts a box around a phenomenon I've been seeing. While there are real challenges with AI slop, quality AI assisted work is devalued.\n\n> Our experiment showed no quality difference in AI-assisted work... This disconnect reveals the path forward—shift from evaluating how work is done to what is accomplished. Replace subjective competence ratings with objective metrics such as cycle time, accuracy, defect rates.\n\n[https://hbr.org/2025/08/research-the-hidden-penalty-of-using-ai-at-work](https://hbr.org/2025/08/research-the-hidden-penalty-of-using-ai-at-work)\n",
+				"date_published": "2025-09-26T14:48:48-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/26/devaluation-of-ai-assistance.html",
+				"tags": ["note"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/25/no-spoiler-but-the-last.html",
+				
+				"content_html": "<p>No spoiler, but the last episode of Alien: Earth season 1 left me unfulfilled.</p>\n",
+				"content_text": "No spoiler, but the last episode of Alien: Earth season 1 left me unfulfilled.\n",
+				"date_published": "2025-09-25T20:11:38-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/25/no-spoiler-but-the-last.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/adding-custom-instructions-to-m.html",
+				"title": "Adding custom instructions to M365 Copilot",
+				"content_html": "<p>I&rsquo;ve been refining my personal &ldquo;custom instructions&rdquo; in M365 Copilot for my work account. I appreciate putting my thumb on the scale of how Copilot responds. 90% of the time it&rsquo;s great, but occasionally it&rsquo;ll have some quirky results when those instructions combine with a selected Agent.</p>\n<p>Would like to have an &ldquo;incognito&rdquo; option to turn my custom instructions off for a single conversation.</p>\n",
+				"content_text": "\nI've been refining my personal \"custom instructions\" in M365 Copilot for my work account. I appreciate putting my thumb on the scale of how Copilot responds. 90% of the time it's great, but occasionally it'll have some quirky results when those instructions combine with a selected Agent. \n\nWould like to have an \"incognito\" option to turn my custom instructions off for a single conversation.\n",
+				"date_published": "2025-09-24T21:25:56-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/adding-custom-instructions-to-m.html",
+				"tags": ["debugging"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/got-a-backlog-of-books.html",
+				
+				"content_html": "<p>Got a backlog of books marked as finished. I&rsquo;ve had some issues with the Bookshelf app on Android since moving to my new phone. Hoping it&rsquo;s a temporary thing but may need to post a support request if it persists.</p>\n",
+				"content_text": "Got a backlog of books marked as finished. I've had some issues with the Bookshelf app on Android since moving to my new phone. Hoping it's a temporary thing but may need to post a support request if it persists.\n",
+				"date_published": "2025-09-24T20:17:38-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/got-a-backlog-of-books.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/finished-reading-the-survivor-by.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781471142024/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781471142024\">The Survivor</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781471142024/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Survivor](https://micro.blog/books/9781471142024) by Vince Flynn 📚\n",
+				"date_published": "2025-09-24T20:16:16-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/finished-reading-the-survivor-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/finished-reading-to-die-for.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781538757932/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781538757932\">To Die For</a> by David Baldacci 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781538757932/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [To Die For](https://micro.blog/books/9781538757932) by David Baldacci 📚\n",
+				"date_published": "2025-09-24T20:16:03-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/finished-reading-to-die-for.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/finished-reading-bloody-genius-by.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525536611/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525536611\">Bloody Genius</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525536611/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Bloody Genius](https://micro.blog/books/9780525536611) by John Sandford 📚\n",
+				"date_published": "2025-09-24T20:15:53-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/finished-reading-bloody-genius-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/finished-reading-the-last-man.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781416595212/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781416595212\">The Last Man</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781416595212/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Last Man](https://micro.blog/books/9781416595212) by Vince Flynn 📚\n",
+				"date_published": "2025-09-24T20:15:08-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/finished-reading-the-last-man.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/24/finished-reading-lethal-prey-by.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593718421/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593718421\">Lethal Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593718421/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Lethal Prey](https://micro.blog/books/9780593718421) by John Sandford 📚\n",
+				"date_published": "2025-09-24T20:14:51-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/24/finished-reading-lethal-prey-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/23/got-to-try-mount-coast.html",
+				
+				"content_html": "<p>Got to try Mount 2 Coast T1 trail shoes at a demo run tonight. Felt pretty good, though I started out with the lower laces too loose.</p>\n",
+				"content_text": "Got to try Mount 2 Coast T1 trail shoes at a demo run tonight. Felt pretty good, though I started out with the lower laces too loose.\n",
+				"date_published": "2025-09-23T22:25:34-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/23/got-to-try-mount-coast.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/22/first-cub-scouts-meeting-of.html",
+				
+				"content_html": "<p>First Cub Scouts meeting of the year&hellip; Fishing!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3f761af0ad.jpg\" width=\"450\" height=\"600\" alt=\"A child in a blue shirt is fishing off a wooden dock while looking into the water.\">\n",
+				"content_text": "First Cub Scouts meeting of the year... Fishing! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3f761af0ad.jpg\" width=\"450\" height=\"600\" alt=\"A child in a blue shirt is fishing off a wooden dock while looking into the water.\">\n",
+				"date_published": "2025-09-22T22:30:53-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/22/first-cub-scouts-meeting-of.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/20/getting-out-to-afton-state.html",
+				
+				"content_html": "<p>Getting out to Afton State Park for a run this morning. The sun is peeking through the clouds, thinking about saying hello. 🏃🌤️</p>\n",
+				"content_text": "Getting out to Afton State Park for a run this morning. The sun is peeking through the clouds, thinking about saying hello. 🏃🌤️\n",
+				"date_published": "2025-09-20T07:51:47-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/20/getting-out-to-afton-state.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/18/im-thinking-of-dusting-off.html",
+				
+				"content_html": "<p>I&rsquo;m thinking of dusting off my &ldquo;memories vault&rdquo; project and using Obsidian as the front end. I think it should work pretty smoothly. Gonna think on it some more, but go for it before the new year.</p>\n",
+				"content_text": "I'm thinking of dusting off my \"memories vault\" project and using Obsidian as the front end. I think it should work pretty smoothly. Gonna think on it some more, but go for it before the new year.\n",
+				"date_published": "2025-09-18T19:40:11-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/18/im-thinking-of-dusting-off.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/14/still-feeling-the-sting-of.html",
+				
+				"content_html": "<p>Still feeling the sting of the Gopher football loss last night. Winnable game, but multiple special teams gaffes, dropped passes, and soft coverage cost us our chances.</p>\n<p>Now on to the bye week then Homecoming against the Scarlett Knights.</p>\n<p>RAH!〽️</p>\n",
+				"content_text": "Still feeling the sting of the Gopher football loss last night. Winnable game, but multiple special teams gaffes, dropped passes, and soft coverage cost us our chances.\n\nNow on to the bye week then Homecoming against the Scarlett Knights. \n\nRAH!〽️\n",
+				"date_published": "2025-09-14T13:56:23-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/14/still-feeling-the-sting-of.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2025/09/13/restoring-ms-authenticator-on-a.html",
+				"title": "Restoring MS Authenticator on a new device",
+				"content_html": "<p>Over the past month, I had to switch phones twice—once due to a hardware issue (phone no longer turns on) then I waited for the new Pixel 10 to come out, bought that, and had to switch again. For the most part, phone swaps are pretty smooth these days. Cloud backups take care of most everything.</p>\n<p>One app category that&rsquo;s an exception is my various 2FA apps. Microsoft Authenticator, in particular, for my work and personal accounts can be a bit confusing, I seem to re-create the process every time, so I&rsquo;m memorializing my process for re-enabling Microsoft 365 or Azure AD accounts</p>\n<hr>\n<h2 id=\"why-this-matters\">Why This Matters</h2>\n<p>If you use Microsoft Authenticator for multi-factor authentication (MFA), switching phones without reconfiguring your accounts can lock you out of critical services. Thankfully, the process to reconnect is straightforward once you know where to go.</p>\n<hr>\n<h2 id=\"step-by-step-reconnecting-microsoft-authenticator\">Step-by-Step: Reconnecting Microsoft Authenticator</h2>\n<h3 id=\"1-install-the-app\">1. Install the App</h3>\n<p>Download and install the Microsoft Authenticator app</p>\n<h3 id=\"2-generate-a-new-qr-code\">2. Generate a New QR Code</h3>\n<p>On a computer where I&rsquo;m already logged in:</p>\n<ul>\n<li>Go to <a href=\"https://mysignins.microsoft.com/security-info\">https://mysignins.microsoft.com/security-info</a>.</li>\n<li>Under Security info, click + Add sign-in method.</li>\n<li>Choose Authenticator app &gt; Next.</li>\n<li>Follow the prompts until a QR code is displayed.</li>\n</ul>\n<h3 id=\"3-scan-the-qr-code\">3. Scan the QR Code</h3>\n<ul>\n<li>Use your phone to scan the QR code shown on your computer screen.</li>\n<li>The account will be added to your Authenticator app.</li>\n</ul>\n<hr>\n<h2 id=\"other-notes\">Other Notes</h2>\n<ul>\n<li>Turn on backup for Authenticator: Enable cloud backup in the app settings. Even though each individual account will need to be re-enabled, this will ensure the full list of accounts shows up on the next device.</li>\n<li>Keep the old phone (if possible) until the new one is fully set up. Setting up the second time was a lot quicker because I had the interim device (a Pixel 6)</li>\n<li>Use a secondary method (like SMS or email) as a backup sign-in option. Again, this helps with the recovery process.</li>\n</ul>\n",
+				"content_text": "\nOver the past month, I had to switch phones twice—once due to a hardware issue (phone no longer turns on) then I waited for the new Pixel 10 to come out, bought that, and had to switch again. For the most part, phone swaps are pretty smooth these days. Cloud backups take care of most everything.\n\nOne app category that's an exception is my various 2FA apps. Microsoft Authenticator, in particular, for my work and personal accounts can be a bit confusing, I seem to re-create the process every time, so I'm memorializing my process for re-enabling Microsoft 365 or Azure AD accounts\n\n---\n\n## Why This Matters\n\nIf you use Microsoft Authenticator for multi-factor authentication (MFA), switching phones without reconfiguring your accounts can lock you out of critical services. Thankfully, the process to reconnect is straightforward once you know where to go.\n\n---\n\n## Step-by-Step: Reconnecting Microsoft Authenticator\n\n### 1. Install the App\n\nDownload and install the Microsoft Authenticator app \n\n\n### 2. Generate a New QR Code\n\nOn a computer where I'm already logged in:\n\n- Go to [https://mysignins.microsoft.com/security-info](https://mysignins.microsoft.com/security-info).\n- Under Security info, click + Add sign-in method.\n- Choose Authenticator app > Next.\n- Follow the prompts until a QR code is displayed.\n\n### 3. Scan the QR Code\n\n- Use your phone to scan the QR code shown on your computer screen.\n- The account will be added to your Authenticator app.\n\n---\n\n## Other Notes\n\n- Turn on backup for Authenticator: Enable cloud backup in the app settings. Even though each individual account will need to be re-enabled, this will ensure the full list of accounts shows up on the next device.\n- Keep the old phone (if possible) until the new one is fully set up. Setting up the second time was a lot quicker because I had the interim device (a Pixel 6)\n- Use a secondary method (like SMS or email) as a backup sign-in option. Again, this helps with the recovery process.\n",
+				"date_published": "2025-09-13T11:09:38-05:00",
+				"url": "https://notes.matthewcanderson.com/2025/09/13/restoring-ms-authenticator-on-a.html",
+				"tags": ["debugging"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2025/09/06/endurance-running-is-a-great.html",
 				
-				"content_html": "<p>Endurance running is a great excuse for me to get out and do hard things&hellip; Even if I hurt now 😆</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Endurance running is a great excuse for me to get out and do hard things... Even if I hurt now 😆\n\n<img src=\"uploads/2025/008cc7a28b.png\" width=\"355\" height=\"600\" alt=\"\"><img src=\"uploads/2025/251969bc01.jpg\" width=\"600\" height=\"270\" alt=\"\"><img src=\"uploads/2025/1063f4ac1d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Endurance running is a great excuse for me to get out and do hard things&hellip; Even if I hurt now 😆</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/008cc7a28b.png\" width=\"355\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/251969bc01.jpg\" width=\"600\" height=\"270\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/1063f4ac1d.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Endurance running is a great excuse for me to get out and do hard things... Even if I hurt now 😆\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/008cc7a28b.png\" width=\"355\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/251969bc01.jpg\" width=\"600\" height=\"270\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/1063f4ac1d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-06T22:41:15-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/09/06/endurance-running-is-a-great.html"
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/09/05/excited-to-run-the-superior.html",
 				
-				"content_html": "<p>Excited to run the Superior Fall 50 mile trail race tomorrow&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Excited to run the Superior Fall 50 mile trail race tomorrow...\n\n<img src=\"uploads/2025/9893b7a06c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Excited to run the Superior Fall 50 mile trail race tomorrow&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9893b7a06c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Excited to run the Superior Fall 50 mile trail race tomorrow...\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9893b7a06c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-09-05T19:21:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/09/05/excited-to-run-the-superior.html"
 			},
 			{
 				"id": "http://mathyousee.micro.blog/2025/09/05/finished-reading-bad-business-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780425199572\">Bad Business</a> by Robert B. Parker 📚</p>\n",
-				"content_text": "Finished reading: [Bad Business](https://micro.blog/books/9780425199572) by Robert B. Parker 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780425199572/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780425199572\">Bad Business</a> by Robert B. Parker 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780425199572/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Bad Business](https://micro.blog/books/9780425199572) by Robert B. Parker 📚\n",
 				"date_published": "2025-09-05T19:19:11-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/09/05/finished-reading-bad-business-by.html",
 				"tags": ["books"]
@@ -34,8 +218,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/09/04/finished-reading-separation-of-power.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982147419\">Separation of Power</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Separation of Power](https://micro.blog/books/9781982147419) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982147419/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982147419\">Separation of Power</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982147419/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Separation of Power](https://micro.blog/books/9781982147419) by Vince Flynn 📚\n",
 				"date_published": "2025-09-04T21:01:33-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/09/04/finished-reading-separation-of-power.html",
 				"tags": ["books"]
@@ -43,8 +227,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/09/01/finished-reading-painted-ladies-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101443873\">Painted Ladies</a> by Robert B. Parker 📚</p>\n",
-				"content_text": "Finished reading: [Painted Ladies](https://micro.blog/books/9781101443873) by Robert B. Parker 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101443873/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101443873\">Painted Ladies</a> by Robert B. Parker 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101443873/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Painted Ladies](https://micro.blog/books/9781101443873) by Robert B. Parker 📚\n",
 				"date_published": "2025-09-01T10:29:00-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/09/01/finished-reading-painted-ladies-by.html",
 				"tags": ["books"]
@@ -52,8 +236,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/29/finished-reading-the-professional-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101148587\">The Professional</a> by Robert B. Parker 📚</p>\n",
-				"content_text": "Finished reading: [The Professional](https://micro.blog/books/9781101148587) by Robert B. Parker 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101148587/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101148587\">The Professional</a> by Robert B. Parker 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101148587/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Professional](https://micro.blog/books/9781101148587) by Robert B. Parker 📚\n",
 				"date_published": "2025-08-29T17:58:02-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/29/finished-reading-the-professional-by.html",
 				"tags": ["books"]
@@ -61,7 +245,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/29/perfect-day-for-the-mn.html",
 				
-				"content_html": "<p>Perfect day for the MN State Fair 🙂👨‍👨‍👧‍👦🍢🍪🍺</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Perfect day for the MN State Fair 🙂👨‍👨‍👧‍👦🍢🍪🍺</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0fd88cf144.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Perfect day for the MN State Fair 🙂👨‍👨‍👧‍👦🍢🍪🍺\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0fd88cf144.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-08-29T17:54:36-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/29/perfect-day-for-the-mn.html"
@@ -69,8 +253,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/26/finished-reading-deadline-by-john.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780425275184\">Deadline</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Deadline](https://micro.blog/books/9780425275184) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780425275184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780425275184\">Deadline</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780425275184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Deadline](https://micro.blog/books/9780425275184) by John Sandford 📚\n",
 				"date_published": "2025-08-26T07:55:22-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/26/finished-reading-deadline-by-john.html",
 				"tags": ["books"]
@@ -94,8 +278,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/19/finished-reading-mistborn-by-brandon.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781429914567\">Mistborn</a> by Brandon Sanderson 📚</p>\n",
-				"content_text": "Finished reading: [Mistborn](https://micro.blog/books/9781429914567) by Brandon Sanderson 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781429914567/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781429914567\">Mistborn</a> by Brandon Sanderson 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781429914567/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Mistborn](https://micro.blog/books/9781429914567) by Brandon Sanderson 📚\n",
 				"date_published": "2025-08-19T20:31:54-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/19/finished-reading-mistborn-by-brandon.html",
 				"tags": ["books"]
@@ -103,7 +287,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/17/family-camping-with-kids-school.html",
 				
-				"content_html": "<p>Family camping with kids school friends at St Croix state park. Beautiful park and a wonderful time! We climbed the fire tower there, it was great!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Family camping with kids school friends at St Croix state park. Beautiful park and a wonderful time! We climbed the fire tower there, it was great!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9737009636.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Family camping with kids school friends at St Croix state park. Beautiful park and a wonderful time! We climbed the fire tower there, it was great! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9737009636.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-08-17T22:11:43-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/17/family-camping-with-kids-school.html"
@@ -119,8 +303,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/09/finished-reading-memorial-day-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780743453981\">Memorial Day</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Memorial Day](https://micro.blog/books/9780743453981) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780743453981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743453981\">Memorial Day</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780743453981/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Memorial Day](https://micro.blog/books/9780743453981) by Vince Flynn 📚\n",
 				"date_published": "2025-08-09T19:48:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/09/finished-reading-memorial-day-by.html",
 				"tags": ["books"]
@@ -128,8 +312,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/06/finished-reading-in-too-deep.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9798217013937\">In Too Deep</a> by Lee Child 📚</p>\n",
-				"content_text": "Finished reading: [In Too Deep](https://micro.blog/books/9798217013937) by Lee Child 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9798217013937/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798217013937\">In Too Deep</a> by Lee Child 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798217013937/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [In Too Deep](https://micro.blog/books/9798217013937) by Lee Child 📚\n",
 				"date_published": "2025-08-06T18:07:52-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/06/finished-reading-in-too-deep.html",
 				"tags": ["books"]
@@ -137,8 +321,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/08/04/finished-reading-executive-power-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780743471275\">Executive Power</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Executive Power](https://micro.blog/books/9780743471275) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780743471275/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780743471275\">Executive Power</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780743471275/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Executive Power](https://micro.blog/books/9780743471275) by Vince Flynn 📚\n",
 				"date_published": "2025-08-04T12:45:00-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/08/04/finished-reading-executive-power-by.html",
 				"tags": ["books"]
@@ -146,8 +330,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/30/finished-reading-rules-of-prey.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525542513\">Rules of Prey</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Rules of Prey](https://micro.blog/books/9780525542513) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525542513/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525542513\">Rules of Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525542513/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Rules of Prey](https://micro.blog/books/9780525542513) by John Sandford 📚\n",
 				"date_published": "2025-07-30T22:30:38-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/30/finished-reading-rules-of-prey.html",
 				"tags": ["books"]
@@ -163,8 +347,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/26/years-after-adding-it-to.html",
 				
-				"content_html": "<p>10+ years after adding it to my reading list&hellip; Finished reading: <a href=\"https://micro.blog/books/9781439195260\">Lonesome Dove</a> by Larry McMurtry 📚 wow what an experience. Thanks Gramma for inspiring me. Miss you. 🐎🕊️</p>\n",
-				"content_text": "10+ years after adding it to my reading list... Finished reading: [Lonesome Dove](https://micro.blog/books/9781439195260) by Larry McMurtry 📚 wow what an experience. Thanks Gramma for inspiring me. Miss you. 🐎🕊️\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781439195260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>10+ years after adding it to my reading list&hellip; Finished reading: <a href=\"https://micro.blog/books/9781439195260\">Lonesome Dove</a> by Larry McMurtry 📚 wow what an experience. Thanks Gramma for inspiring me. Miss you. 🐎🕊️</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781439195260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\n10+ years after adding it to my reading list... Finished reading: [Lonesome Dove](https://micro.blog/books/9781439195260) by Larry McMurtry 📚 wow what an experience. Thanks Gramma for inspiring me. Miss you. 🐎🕊️\n",
 				"date_published": "2025-07-26T20:44:23-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/26/years-after-adding-it-to.html",
 				"tags": ["books"]
@@ -188,8 +372,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/23/finished-reading-twisted-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735217355\">Twisted Prey</a> by John Sandford  📚</p>\n",
-				"content_text": "Finished reading: [Twisted Prey](https://micro.blog/books/9780735217355) by John Sandford  📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780735217355/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780735217355\">Twisted Prey</a> by John Sandford  📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780735217355/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Twisted Prey](https://micro.blog/books/9780735217355) by John Sandford  📚\n",
 				"date_published": "2025-07-23T14:42:08-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/23/finished-reading-twisted-prey-by.html",
 				"tags": ["books"]
@@ -197,8 +381,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/23/finished-reading-extreme-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780698407107\">Extreme Prey</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Extreme Prey](https://micro.blog/books/9780698407107) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780698407107/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780698407107\">Extreme Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780698407107/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Extreme Prey](https://micro.blog/books/9780698407107) by John Sandford 📚\n",
 				"date_published": "2025-07-23T14:41:29-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/23/finished-reading-extreme-prey-by.html",
 				"tags": ["books"]
@@ -206,7 +390,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/20/got-out-to-the-st.html",
 				
-				"content_html": "<p>Got out to the St. Louis Park aquatic center with the kids today. Lots of water sliding!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Got out to the St. Louis Park aquatic center with the kids today. Lots of water sliding!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d8ee99e682.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"content_text": "Got out to the St. Louis Park aquatic center with the kids today. Lots of water sliding! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d8ee99e682.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-07-20T23:09:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/20/got-out-to-the-st.html"
@@ -214,8 +398,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/17/finished-reading-annabel-scheme-paperback.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/G168621270\">Annabel Scheme (paperback book)</a> by Robin Sloan 📚 didn&rsquo;t know what to expect, fun ride!</p>\n",
-				"content_text": "Finished reading: [Annabel Scheme (paperback book)](https://micro.blog/books/G168621270) by Robin Sloan 📚 didn't know what to expect, fun ride! \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/G168621270/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/G168621270\">Annabel Scheme (paperback book)</a> by Robin Sloan 📚 didn&rsquo;t know what to expect, fun ride!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/G168621270/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Annabel Scheme (paperback book)](https://micro.blog/books/G168621270) by Robin Sloan 📚 didn't know what to expect, fun ride! \n",
 				"date_published": "2025-07-17T20:53:39-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/17/finished-reading-annabel-scheme-paperback.html",
 				"tags": ["books"]
@@ -231,8 +415,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/15/finished-reading-gathering-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781471154287\">Gathering Prey</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Gathering Prey](https://micro.blog/books/9781471154287) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781471154287/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781471154287\">Gathering Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781471154287/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Gathering Prey](https://micro.blog/books/9781471154287) by John Sandford 📚\n",
 				"date_published": "2025-07-15T17:47:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/15/finished-reading-gathering-prey-by.html",
 				"tags": ["books"]
@@ -240,7 +424,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/12/enjoyed-monster-jam-with-my.html",
 				
-				"content_html": "<p>Enjoyed Monster Jam with my son, I love being able to share the thrill of big trucks doing cool things for no reason but to be exciting. 🏁</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Enjoyed Monster Jam with my son, I love being able to share the thrill of big trucks doing cool things for no reason but to be exciting. 🏁</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/485de636f2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/be334b02f8.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "Enjoyed Monster Jam with my son, I love being able to share the thrill of big trucks doing cool things for no reason but to be exciting. 🏁\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/485de636f2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/be334b02f8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-07-12T20:26:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/12/enjoyed-monster-jam-with-my.html"
@@ -248,8 +432,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/11/finished-reading-the-first-rule.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781647823252\">The First Rule of Mastery</a> by Michael Gervais 📚</p>\n",
-				"content_text": "Finished reading: [The First Rule of Mastery](https://micro.blog/books/9781647823252) by Michael Gervais 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781647823252/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781647823252\">The First Rule of Mastery</a> by Michael Gervais 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781647823252/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The First Rule of Mastery](https://micro.blog/books/9781647823252) by Michael Gervais 📚\n",
 				"date_published": "2025-07-11T19:00:34-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/11/finished-reading-the-first-rule.html",
 				"tags": ["books"]
@@ -257,8 +441,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/09/finished-reading-silent-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780425137567\">Silent Prey</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Silent Prey](https://micro.blog/books/9780425137567) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780425137567/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780425137567\">Silent Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780425137567/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Silent Prey](https://micro.blog/books/9780425137567) by John Sandford 📚\n",
 				"date_published": "2025-07-09T19:27:00-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/09/finished-reading-silent-prey-by.html",
 				"tags": ["books"]
@@ -274,8 +458,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/04/finished-reading-past-tense-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857503626\">Past Tense</a> by Lee Child 📚</p>\n",
-				"content_text": "Finished reading: [Past Tense](https://micro.blog/books/9780857503626) by Lee Child 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780857503626/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780857503626\">Past Tense</a> by Lee Child 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780857503626/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Past Tense](https://micro.blog/books/9780857503626) by Lee Child 📚\n",
 				"date_published": "2025-07-04T20:23:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/04/finished-reading-past-tense-by.html",
 				"tags": ["books"]
@@ -299,8 +483,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/02/finished-reading-the-third-option.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781439195123\">The Third Option</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [The Third Option](https://micro.blog/books/9781439195123) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781439195123/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781439195123\">The Third Option</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781439195123/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Third Option](https://micro.blog/books/9781439195123) by Vince Flynn 📚\n",
 				"date_published": "2025-07-02T20:42:34-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/02/finished-reading-the-third-option.html",
 				"tags": ["books"]
@@ -308,7 +492,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/07/02/was-reminded-by-ericmwalk-that.html",
 				
-				"content_html": "<p>Was reminded by <a href=\"https://micro.blog/ericmwalk\">@ericmwalk</a> that I too was very close to a deer on a recent run. Adding here for posterity. 🏃🦌</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Was reminded by <a href=\"https://micro.blog/ericmwalk\">@ericmwalk</a> that I too was very close to a deer on a recent run. Adding here for posterity. 🏃🦌</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/2c9f95101f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/09bec836c1.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "Was reminded by [@ericmwalk](https://micro.blog/ericmwalk) that I too was very close to a deer on a recent run. Adding here for posterity. 🏃🦌\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/2c9f95101f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/09bec836c1.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-07-02T12:22:40-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/07/02/was-reminded-by-ericmwalk-that.html"
@@ -324,8 +508,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/30/finished-reading-the-way-of.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765376671\">The Way of Kings</a> by Brandon Sanderson 📚 First time reading a Sanderson novel, excited for more!</p>\n",
-				"content_text": "Finished reading: [The Way of Kings](https://micro.blog/books/9780765376671) by Brandon Sanderson 📚 First time reading a Sanderson novel, excited for more! \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780765376671/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780765376671\">The Way of Kings</a> by Brandon Sanderson 📚 First time reading a Sanderson novel, excited for more!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780765376671/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Way of Kings](https://micro.blog/books/9780765376671) by Brandon Sanderson 📚 First time reading a Sanderson novel, excited for more! \n",
 				"date_published": "2025-06-30T08:29:27-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/30/finished-reading-the-way-of.html",
 				"tags": ["books"]
@@ -333,7 +517,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/29/the-wierd-al-show-at.html",
 				
-				"content_html": "<p>The Wierd Al show at Treasure Island last night was fantastic! He&rsquo;s still crushing it and full of energy.</p>\n<p>I put together a <a href=\"https://open.spotify.com/playlist/4HAbGETnNeteLbUN2N6Xfe?si=hmcgSu8WREaddwgYfWC6yw&amp;pi=IWfXPaHOQr-xP\">playlist of his set</a> to commemorate the night.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>The Wierd Al show at Treasure Island last night was fantastic! He&rsquo;s still crushing it and full of energy.</p>\n<p>I put together a <a href=\"https://open.spotify.com/playlist/4HAbGETnNeteLbUN2N6Xfe?si=hmcgSu8WREaddwgYfWC6yw&amp;pi=IWfXPaHOQr-xP\">playlist of his set</a> to commemorate the night.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/be80c5b78a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "The Wierd Al show at Treasure Island last night was fantastic! He's still crushing it and full of energy.\n\nI put together a [playlist of his set](https://open.spotify.com/playlist/4HAbGETnNeteLbUN2N6Xfe?si=hmcgSu8WREaddwgYfWC6yw&pi=IWfXPaHOQr-xP) to commemorate the night. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/be80c5b78a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-29T15:54:44-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/29/the-wierd-al-show-at.html"
@@ -341,7 +525,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/28/love-that-k-people-are.html",
 				
-				"content_html": "<p>Love that 30k+ people are watching the Western States today&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Love that 30k+ people are watching the Western States today&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3bae072fef.jpg\" width=\"600\" height=\"461\" alt=\"\">\n",
 				"content_text": "Love that 30k+ people are watching the Western States today... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3bae072fef.jpg\" width=\"600\" height=\"461\" alt=\"\">\n",
 				"date_published": "2025-06-28T18:17:08-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/28/love-that-k-people-are.html"
@@ -398,8 +582,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/18/finished-reading-extreme-measures-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781847376282\">Extreme Measures</a> by Vince Flynn 📚 started and finished this one during my recent race. 🎧🏃</p>\n",
-				"content_text": "Finished reading: [Extreme Measures](https://micro.blog/books/9781847376282) by Vince Flynn 📚 started and finished this one during my recent race. 🎧🏃\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781847376282/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781847376282\">Extreme Measures</a> by Vince Flynn 📚 started and finished this one during my recent race. 🎧🏃</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781847376282/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Extreme Measures](https://micro.blog/books/9781847376282) by Vince Flynn 📚 started and finished this one during my recent race. 🎧🏃\n",
 				"date_published": "2025-06-18T21:48:38-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/18/finished-reading-extreme-measures-by.html",
 				"tags": ["books"]
@@ -407,8 +591,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/17/finished-reading-prey-by-michael.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061015724\">Prey</a> by Michael Crichton 📚 interesting reading this in 2025, with the discussion of AI and Agentic system design. Now we&rsquo;re discussing software agents instead of contemplating nanotech. Fun read.</p>\n",
-				"content_text": "Finished reading: [Prey](https://micro.blog/books/9780061015724) by Michael Crichton 📚 interesting reading this in 2025, with the discussion of AI and Agentic system design. Now we're discussing software agents instead of contemplating nanotech. Fun read. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780061015724/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780061015724\">Prey</a> by Michael Crichton 📚 interesting reading this in 2025, with the discussion of AI and Agentic system design. Now we&rsquo;re discussing software agents instead of contemplating nanotech. Fun read.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780061015724/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Prey](https://micro.blog/books/9780061015724) by Michael Crichton 📚 interesting reading this in 2025, with the discussion of AI and Agentic system design. Now we're discussing software agents instead of contemplating nanotech. Fun read. \n",
 				"date_published": "2025-06-17T09:42:45-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/17/finished-reading-prey-by-michael.html",
 				"tags": ["books"]
@@ -416,7 +600,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/15/amazing-day-running-the-kettle.html",
 				
-				"content_html": "<p>Amazing day running the Kettle Moraine 100k. I felt great and finished ahead of my goal time. Grateful for my family and Crew joining for the day as well as the very cooperative weather 🌞🏃🔔</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Amazing day running the Kettle Moraine 100k. I felt great and finished ahead of my goal time. Grateful for my family and Crew joining for the day as well as the very cooperative weather 🌞🏃🔔</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/image.png\" width=\"600\" height=\"315\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/f1a5ab5360.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/0d236cb1f4.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "Amazing day running the Kettle Moraine 100k. I felt great and finished ahead of my goal time. Grateful for my family and Crew joining for the day as well as the very cooperative weather 🌞🏃🔔\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/image.png\" width=\"600\" height=\"315\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/f1a5ab5360.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/0d236cb1f4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-15T17:45:49-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/15/amazing-day-running-the-kettle.html"
@@ -433,7 +617,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/13/nutrition-ready-for-aid-stations.html",
 				
-				"content_html": "<p>Nutrition ready for aid stations. Kettle Moraine 100k: here I come 🏃🥪</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Nutrition ready for aid stations. Kettle Moraine 100k: here I come 🏃🥪</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9e81803193.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Nutrition ready for aid stations. Kettle Moraine 100k: here I come 🏃🥪\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9e81803193.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-06-13T12:38:21-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/13/nutrition-ready-for-aid-stations.html"
@@ -441,7 +625,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/13/evening-hike-with-the-kids.html",
 				
-				"content_html": "<p>Evening hike with the kids 🥾</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Evening hike with the kids 🥾</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/b5317141d9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Evening hike with the kids 🥾\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/b5317141d9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-13T07:11:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/13/evening-hike-with-the-kids.html",
@@ -458,7 +642,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/09/had-my-last-long-run.html",
 				
-				"content_html": "<p>Had my last long run before Kettle Moraine 100k this weekend. Couldn&rsquo;t help but stop to snag a photo of the flowers along the trail 🏃🪻</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Had my last long run before Kettle Moraine 100k this weekend. Couldn&rsquo;t help but stop to snag a photo of the flowers along the trail 🏃🪻</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/trail-flowers.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Had my last long run before Kettle Moraine 100k this weekend. Couldn't help but stop to snag a photo of the flowers along the trail 🏃🪻\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/trail-flowers.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-06-09T21:12:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/09/had-my-last-long-run.html"
@@ -474,8 +658,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/06/06/finished-reading-the-midnight-line.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399593505\">The Midnight Line</a> by Lee Child 📚</p>\n",
-				"content_text": "Finished reading: [The Midnight Line](https://micro.blog/books/9780399593505) by Lee Child 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780399593505/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780399593505\">The Midnight Line</a> by Lee Child 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399593505/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Midnight Line](https://micro.blog/books/9780399593505) by Lee Child 📚\n",
 				"date_published": "2025-06-06T20:00:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/06/06/finished-reading-the-midnight-line.html",
 				"tags": ["books"]
@@ -499,8 +683,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/31/finished-reading-the-affair-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780440246305\">The Affair</a> by Lee Child 📚</p>\n",
-				"content_text": "Finished reading: [The Affair](https://micro.blog/books/9780440246305) by Lee Child 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780440246305/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780440246305\">The Affair</a> by Lee Child 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780440246305/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Affair](https://micro.blog/books/9780440246305) by Lee Child 📚\n",
 				"date_published": "2025-05-31T16:25:00-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/31/finished-reading-the-affair-by.html",
 				"tags": ["books"]
@@ -508,7 +692,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/31/celebrated-my-th-wedding-anniversary.html",
 				
-				"content_html": "<p>Celebrated my 15th wedding anniversary at the Dakota last night. Fantastic show!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Celebrated my 15th wedding anniversary at the Dakota last night. Fantastic show!</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/519e8aebe8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/83d01bad86.jpg\" width=\"600\" height=\"458\" alt=\"\"></p>\n",
 				"content_text": "Celebrated my 15th wedding anniversary at the Dakota last night. Fantastic show! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/519e8aebe8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/83d01bad86.jpg\" width=\"600\" height=\"458\" alt=\"\">\n",
 				"date_published": "2025-05-31T09:14:24-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/31/celebrated-my-th-wedding-anniversary.html"
@@ -532,8 +716,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/24/finished-reading-neon-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525536604\">Neon Prey</a> by John Sandford 📚</p>\n",
-				"content_text": "Finished reading: [Neon Prey](https://micro.blog/books/9780525536604) by John Sandford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525536604/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525536604\">Neon Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525536604/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Neon Prey](https://micro.blog/books/9780525536604) by John Sandford 📚\n",
 				"date_published": "2025-05-24T20:31:35-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/24/finished-reading-neon-prey-by.html",
 				"tags": ["books"]
@@ -541,8 +725,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/23/finished-reading-transfer-of-power.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781847395757\">Transfer Of Power</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Transfer Of Power](https://micro.blog/books/9781847395757) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781847395757/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781847395757\">Transfer Of Power</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781847395757/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Transfer Of Power](https://micro.blog/books/9781847395757) by Vince Flynn 📚\n",
 				"date_published": "2025-05-23T23:08:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/23/finished-reading-transfer-of-power.html",
 				"tags": ["books"]
@@ -550,8 +734,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/21/finished-reading-passions-in-death.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/\">Passions in Death</a> by J. D. Robb📚. 😒</p>\n",
-				"content_text": "Finished reading: [Passions in Death](https://micro.blog/books/) by J. D. Robb📚. 😒\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/\">Passions in Death</a> by J. D. Robb📚. 😒</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Passions in Death](https://micro.blog/books/) by J. D. Robb📚. 😒\n",
 				"date_published": "2025-05-21T22:35:58-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/21/finished-reading-passions-in-death.html",
 				"tags": ["books"]
@@ -559,7 +743,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/20/wet-runs-today-got-in.html",
 				
-				"content_html": "<p>Wet runs today&hellip; Got in 13 rainy and wonderful miles ☔🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Wet runs today&hellip; Got in 13 rainy and wonderful miles ☔🏃</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0140cf5cd4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Wet runs today... Got in 13 rainy and wonderful miles ☔🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0140cf5cd4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-20T18:16:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/20/wet-runs-today-got-in.html"
@@ -567,7 +751,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/18/more-from-scout-camp-this.html",
 				
-				"content_html": "<p>More from scout camp this weekend. They were proud of getting that dead limb into the river. Teamwork!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>More from scout camp this weekend. They were proud of getting that dead limb into the river. Teamwork!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/76398d885f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "More from scout camp this weekend. They were proud of getting that dead limb into the river. Teamwork! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/76398d885f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-18T23:13:15-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/18/more-from-scout-camp-this.html"
@@ -575,7 +759,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/18/scout-camp-the-first-time.html",
 				
-				"content_html": "<p>Scout camp, the first time for my son (and me). He loved it. &ldquo;Dad, can we do this every year?&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Scout camp, the first time for my son (and me). He loved it. &ldquo;Dad, can we do this every year?&rdquo;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0d5de41fbb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Scout camp, the first time for my son (and me). He loved it. \"Dad, can we do this every year?\" \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0d5de41fbb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-18T23:10:24-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/18/scout-camp-the-first-time.html"
@@ -599,8 +783,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/14/finished-reading-the-waiting-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316563796\">The Waiting</a> by Michael Connelly 📚</p>\n",
-				"content_text": "Finished reading: [The Waiting](https://micro.blog/books/9780316563796) by Michael Connelly 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316563796/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316563796\">The Waiting</a> by Michael Connelly 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316563796/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Waiting](https://micro.blog/books/9780316563796) by Michael Connelly 📚\n",
 				"date_published": "2025-05-14T06:46:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/14/finished-reading-the-waiting-by.html",
 				"tags": ["books"]
@@ -608,8 +792,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/11/finished-reading-kill-shot-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781416595229\">Kill Shot</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Kill Shot](https://micro.blog/books/9781416595229) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781416595229/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781416595229\">Kill Shot</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781416595229/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Kill Shot](https://micro.blog/books/9781416595229) by Vince Flynn 📚\n",
 				"date_published": "2025-05-11T12:26:49-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/11/finished-reading-kill-shot-by.html",
 				"tags": ["books"]
@@ -617,7 +801,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/10/beautiful-dawn-sky-during-my.html",
 				
-				"content_html": "<p>Beautiful dawn sky during my run this morning&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Beautiful dawn sky during my run this morning&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/c132a19c81.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Beautiful dawn sky during my run this morning... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/c132a19c81.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-10T21:13:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/10/beautiful-dawn-sky-during-my.html"
@@ -625,7 +809,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/09/working-from-the-ids-tower.html",
 				
-				"content_html": "<p>Working from the IDS Tower Club today. I love that I can trace so much of the Twin Cities marathon route from up here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Working from the IDS Tower Club today. I love that I can trace so much of the Twin Cities marathon route from up here.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/c7593ff0a6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Working from the IDS Tower Club today. I love that I can trace so much of the Twin Cities marathon route from up here. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/c7593ff0a6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-09T13:42:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/09/working-from-the-ids-tower.html"
@@ -633,8 +817,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/08/finished-reading-the-fix-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781455586554\">The Fix</a> by David Baldacci 📚</p>\n",
-				"content_text": "Finished reading: [The Fix](https://micro.blog/books/9781455586554) by David Baldacci 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781455586554/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781455586554\">The Fix</a> by David Baldacci 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781455586554/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Fix](https://micro.blog/books/9781455586554) by David Baldacci 📚\n",
 				"date_published": "2025-05-08T22:48:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/08/finished-reading-the-fix-by.html",
 				"tags": ["books"]
@@ -658,8 +842,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/05/finished-reading-high-profile-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780399154041\">High Profile</a> by Robert B. Parker 📚</p>\n",
-				"content_text": "Finished reading: [High Profile](https://micro.blog/books/9780399154041) by Robert B. Parker 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780399154041/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780399154041\">High Profile</a> by Robert B. Parker 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399154041/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [High Profile](https://micro.blog/books/9780399154041) by Robert B. Parker 📚\n",
 				"date_published": "2025-05-05T22:32:36-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/05/finished-reading-high-profile-by.html",
 				"tags": ["books"]
@@ -667,7 +851,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/03/new-to-me-boat-day.html",
 				
-				"content_html": "<p>New (to me) boat day! The weather cooperated beautifully&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>New (to me) boat day! The weather cooperated beautifully&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/5a921a9988.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "New (to me) boat day! The weather cooperated beautifully... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/5a921a9988.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-03T17:19:11-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/03/new-to-me-boat-day.html",
@@ -676,7 +860,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/05/02/i-got-this-spam-marketing.html",
 				
-				"content_html": "<p>I got this <del>spam</del> marketing email a few hours ago and have been trying to process this combination of things that Instacart has grouped together for me. It does sound intriguing&ndash;I hadn&rsquo;t considered Casamigos, Taco Bell, and Tostitos as an order&ndash;but I don&rsquo;t think this ad will convert.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I got this <del>spam</del> marketing email a few hours ago and have been trying to process this combination of things that Instacart has grouped together for me. It does sound intriguing&ndash;I hadn&rsquo;t considered Casamigos, Taco Bell, and Tostitos as an order&ndash;but I don&rsquo;t think this ad will convert.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/arc-ac8jhmwc1i.png\" width=\"600\" height=\"50\" alt=\"\">\n",
 				"content_text": "I got this ~~spam~~ marketing email a few hours ago and have been trying to process this combination of things that Instacart has grouped together for me. It does sound intriguing--I hadn't considered Casamigos, Taco Bell, and Tostitos as an order--but I don't think this ad will convert.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/arc-ac8jhmwc1i.png\" width=\"600\" height=\"50\" alt=\"\">\n",
 				"date_published": "2025-05-02T21:20:23-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/05/02/i-got-this-spam-marketing.html"
@@ -701,7 +885,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/30/midday-run-today-first-time.html",
 				
-				"content_html": "<p>Midday run today, first time taking the Singletrack at Lone Lake Park. Beautiful day and a great 5 mile trail. 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Midday run today, first time taking the Singletrack at Lone Lake Park. Beautiful day and a great 5 mile trail. 🏃</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a87610d559.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Midday run today, first time taking the Singletrack at Lone Lake Park. Beautiful day and a great 5 mile trail. 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a87610d559.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-30T19:27:10-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/30/midday-run-today-first-time.html"
@@ -709,8 +893,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/30/finished-reading-the-path-of.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781429960595\">The Path of Daggers</a> by Robert Jordan 📚</p>\n",
-				"content_text": "Finished reading: [The Path of Daggers](https://micro.blog/books/9781429960595) by Robert Jordan 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781429960595/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781429960595\">The Path of Daggers</a> by Robert Jordan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781429960595/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Path of Daggers](https://micro.blog/books/9781429960595) by Robert Jordan 📚\n",
 				"date_published": "2025-04-30T07:12:24-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/30/finished-reading-the-path-of.html",
 				"tags": ["books"]
@@ -718,8 +902,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/27/finished-reading-pursuit-of-honor.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781416595175\">Pursuit of Honor</a> by Vince Flynn 📚</p>\n",
-				"content_text": "Finished reading: [Pursuit of Honor](https://micro.blog/books/9781416595175) by Vince Flynn 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781416595175/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781416595175\">Pursuit of Honor</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781416595175/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Pursuit of Honor](https://micro.blog/books/9781416595175) by Vince Flynn 📚\n",
 				"date_published": "2025-04-27T20:57:06-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/27/finished-reading-pursuit-of-honor.html",
 				"tags": ["books"]
@@ -727,7 +911,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/26/pickled-beats-at-the-mound.html",
 				
-				"content_html": "<p>Pickled Beats at the Mound Legion 🎸🥁🎤</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Pickled Beats at the Mound Legion 🎸🥁🎤</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1850a8ce68.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Pickled Beats at the Mound Legion 🎸🥁🎤\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1850a8ce68.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-26T22:55:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/26/pickled-beats-at-the-mound.html"
@@ -735,7 +919,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/26/feeling-recovered-from-last-week.html",
 				
-				"content_html": "<p>Feeling recovered from last week. Got out for 20 miles on my run, then watched the Elm Creek Backyard Ultra participants finish yard 24 (100 miles). 13 met that mark, then 7 continued on 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Feeling recovered from last week. Got out for 20 miles on my run, then watched the Elm Creek Backyard Ultra participants finish yard 24 (100 miles). 13 met that mark, then 7 continued on 🏃</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/07c3a5c605.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Feeling recovered from last week. Got out for 20 miles on my run, then watched the Elm Creek Backyard Ultra participants finish yard 24 (100 miles). 13 met that mark, then 7 continued on 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/07c3a5c605.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-26T17:50:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/26/feeling-recovered-from-last-week.html"
@@ -743,7 +927,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/24/checked-out-four-different-local.html",
 				
-				"content_html": "<p>Checked out four different local parks with my son to stack rank for his upcoming birthday party. The rain was not an issue and we now have a clear order in mind. Fingers crossed for availability 🤞😉</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Checked out four different local parks with my son to stack rank for his upcoming birthday party. The rain was not an issue and we now have a clear order in mind. Fingers crossed for availability 🤞😉</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3dadab437c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Checked out four different local parks with my son to stack rank for his upcoming birthday party. The rain was not an issue and we now have a clear order in mind. Fingers crossed for availability 🤞😉\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3dadab437c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-24T19:05:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/24/checked-out-four-different-local.html"
@@ -759,7 +943,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/21/still-feeling-sore-after-my.html",
 				
-				"content_html": "<p>Still feeling sore after my race Saturday. That didn&rsquo;t stop me from getting out for a walk with my wife and the dogs today. 🌞</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Still feeling sore after my race Saturday. That didn&rsquo;t stop me from getting out for a walk with my wife and the dogs today. 🌞</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/32bfe9738b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Still feeling sore after my race Saturday. That didn't stop me from getting out for a walk with my wife and the dogs today. 🌞\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/32bfe9738b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-21T22:12:33-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/21/still-feeling-sore-after-my.html"
@@ -767,8 +951,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/19/finished-reading-american-assassin-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/\">American Assassin</a> by Vince Flynn 📚 listened to this one during my run today&hellip;end to end 🏃 📖 👂</p>\n",
-				"content_text": "Finished reading: [American Assassin](https://micro.blog/books/) by Vince Flynn 📚 listened to this one during my run today...end to end 🏃 📖 👂\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/\">American Assassin</a> by Vince Flynn 📚 listened to this one during my run today&hellip;end to end 🏃 📖 👂</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [American Assassin](https://micro.blog/books/) by Vince Flynn 📚 listened to this one during my run today...end to end 🏃 📖 👂\n",
 				"date_published": "2025-04-19T22:48:04-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/19/finished-reading-american-assassin-by.html",
 				"tags": ["books"]
@@ -776,7 +960,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/19/ran-the-storm-the-park.html",
 				
-				"content_html": "<p>Ran the Storm the Park 50K. Very hilly and technical, but a fun race on a beautiful day.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Ran the Storm the Park 50K. Very hilly and technical, but a fun race on a beautiful day.</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/f9c8f08349.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/65fb11ed4b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/11805abe8e.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Ran the Storm the Park 50K. Very hilly and technical, but a fun race on a beautiful day. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/f9c8f08349.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/65fb11ed4b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/11805abe8e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-19T21:04:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/19/ran-the-storm-the-park.html"
@@ -792,7 +976,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/15/forest-time-trying-a-jalapeo.html",
 				
-				"content_html": "<p>First time trying a Jalapeño IPA. Birch&rsquo;s on the Lake in Long Lake had it. Good spiciness 🌶️ but still easy to drink.</p>\n<p>Was out with the Tuesday Night Trails group and got to chat with Isaac, the new primary owner of Gear West. Excited for their future!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>First time trying a Jalapeño IPA. Birch&rsquo;s on the Lake in Long Lake had it. Good spiciness 🌶️ but still easy to drink.</p>\n<p>Was out with the Tuesday Night Trails group and got to chat with Isaac, the new primary owner of Gear West. Excited for their future!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/236a5928a7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "First time trying a Jalapeño IPA. Birch's on the Lake in Long Lake had it. Good spiciness 🌶️ but still easy to drink.\n\nWas out with the Tuesday Night Trails group and got to chat with Isaac, the new primary owner of Gear West. Excited for their future! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/236a5928a7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-15T21:50:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/15/forest-time-trying-a-jalapeo.html"
@@ -808,7 +992,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/14/i-volunteered-at-the-zumbro.html",
 				
-				"content_html": "<p>I volunteered at the Zumbro Endurance Runs over the weekend. It was great to give back to the trail running community. Way to go runners! What a weekend and I even got out for a couple of my own runs during breaks&hellip; 🏃👍</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>I volunteered at the Zumbro Endurance Runs over the weekend. It was great to give back to the trail running community. Way to go runners! What a weekend and I even got out for a couple of my own runs during breaks&hellip; 🏃👍</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/851db6fc8c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/8a6b4f4440.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "I volunteered at the Zumbro Endurance Runs over the weekend. It was great to give back to the trail running community. Way to go runners! What a weekend and I even got out for a couple of my own runs during breaks... 🏃👍 \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/851db6fc8c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/8a6b4f4440.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-14T14:11:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/14/i-volunteered-at-the-zumbro.html"
@@ -816,8 +1000,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/13/finished-reading-dirty-thirty-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781668003107\">Dirty Thirty</a> by Janet Evanovich 📚every once in a while I try one of these Evanovich novels then remember why I usually don&rsquo;t. 😒</p>\n",
-				"content_text": "Finished reading: [Dirty Thirty](https://micro.blog/books/9781668003107) by Janet Evanovich 📚every once in a while I try one of these Evanovich novels then remember why I usually don't. 😒\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781668003107/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781668003107\">Dirty Thirty</a> by Janet Evanovich 📚every once in a while I try one of these Evanovich novels then remember why I usually don&rsquo;t. 😒</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781668003107/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Dirty Thirty](https://micro.blog/books/9781668003107) by Janet Evanovich 📚every once in a while I try one of these Evanovich novels then remember why I usually don't. 😒\n",
 				"date_published": "2025-04-13T17:43:37-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/13/finished-reading-dirty-thirty-by.html",
 				"tags": ["books"]
@@ -825,8 +1009,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/12/finished-reading-toxic-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593714492\">Toxic Prey</a> by John Sandford 📚 my first off the Lucas and Letty variation, an unmarried Davenport takes on some characteristics of Reacher&hellip;</p>\n",
-				"content_text": "Finished reading: [Toxic Prey](https://micro.blog/books/9780593714492) by John Sandford 📚 my first off the Lucas and Letty variation, an unmarried Davenport takes on some characteristics of Reacher... \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593714492/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593714492\">Toxic Prey</a> by John Sandford 📚 my first off the Lucas and Letty variation, an unmarried Davenport takes on some characteristics of Reacher&hellip;</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593714492/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Toxic Prey](https://micro.blog/books/9780593714492) by John Sandford 📚 my first off the Lucas and Letty variation, an unmarried Davenport takes on some characteristics of Reacher... \n",
 				"date_published": "2025-04-12T19:33:46-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/12/finished-reading-toxic-prey-by.html",
 				"tags": ["books"]
@@ -842,8 +1026,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/10/finished-reading-golden-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101988848\">Golden Prey</a> by John Sandford 📚 Oh Lucas, how I&rsquo;ve missed your adventures.</p>\n",
-				"content_text": "Finished reading: [Golden Prey](https://micro.blog/books/9781101988848) by John Sandford 📚 Oh Lucas, how I've missed your adventures. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781101988848/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101988848\">Golden Prey</a> by John Sandford 📚 Oh Lucas, how I&rsquo;ve missed your adventures.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101988848/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Golden Prey](https://micro.blog/books/9781101988848) by John Sandford 📚 Oh Lucas, how I've missed your adventures. \n",
 				"date_published": "2025-04-10T22:34:37-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/10/finished-reading-golden-prey-by.html",
 				"tags": ["books"]
@@ -867,8 +1051,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/06/finished-reading-ocean-prey-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593087039\">Ocean Prey</a> by John Sandford 📚 that makes 5 books during this spring break. Been a while since I could claim that&hellip; Felt great!</p>\n",
-				"content_text": "Finished reading: [Ocean Prey](https://micro.blog/books/9780593087039) by John Sandford 📚 that makes 5 books during this spring break. Been a while since I could claim that... Felt great! \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593087039/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593087039\">Ocean Prey</a> by John Sandford 📚 that makes 5 books during this spring break. Been a while since I could claim that&hellip; Felt great!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593087039/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Ocean Prey](https://micro.blog/books/9780593087039) by John Sandford 📚 that makes 5 books during this spring break. Been a while since I could claim that... Felt great! \n",
 				"date_published": "2025-04-06T21:41:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/06/finished-reading-ocean-prey-by.html",
 				"tags": ["books"]
@@ -876,7 +1060,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/05/good-day-to-be-in.html",
 				
-				"content_html": "<p>Good day to be in the sun for the Twins game! #WinTwins</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Good day to be in the sun for the Twins game! #WinTwins</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1bb50dd89b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Good day to be in the sun for the Twins game! #WinTwins\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1bb50dd89b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-05T15:45:50-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/05/good-day-to-be-in.html"
@@ -892,8 +1076,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/04/finished-reading-make-me-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473508781\">Make Me</a> by Lee Child 📚 a darker theme as far as Reacher books go&hellip;</p>\n",
-				"content_text": "Finished reading: [Make Me](https://micro.blog/books/9781473508781) by Lee Child 📚 a darker theme as far as Reacher books go... \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781473508781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781473508781\">Make Me</a> by Lee Child 📚 a darker theme as far as Reacher books go&hellip;</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781473508781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Make Me](https://micro.blog/books/9781473508781) by Lee Child 📚 a darker theme as far as Reacher books go... \n",
 				"date_published": "2025-04-04T07:28:50-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/04/finished-reading-make-me-by.html",
 				"tags": ["books"]
@@ -909,8 +1093,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/02/finished-reading-personal-by-lee.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780804178761\">Personal</a> by Lee Child 📚 I love being able to fly through my reading list when I&rsquo;m on a relaxed vacation.</p>\n",
-				"content_text": "Finished reading: [Personal](https://micro.blog/books/9780804178761) by Lee Child 📚 I love being able to fly through my reading list when I'm on a relaxed vacation. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780804178761/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780804178761\">Personal</a> by Lee Child 📚 I love being able to fly through my reading list when I&rsquo;m on a relaxed vacation.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780804178761/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Personal](https://micro.blog/books/9780804178761) by Lee Child 📚 I love being able to fly through my reading list when I'm on a relaxed vacation. \n",
 				"date_published": "2025-04-02T19:07:42-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/02/finished-reading-personal-by-lee.html",
 				"tags": ["books"]
@@ -918,8 +1102,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/02/finished-reading-relentless-forward-progress.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781891369902\">Relentless Forward Progress</a> by Bryon Powell 📚 good read, I appreciate the little stories from the author and other contributors. Excited for the 2025 season!</p>\n",
-				"content_text": "Finished reading: [Relentless Forward Progress](https://micro.blog/books/9781891369902) by Bryon Powell 📚 good read, I appreciate the little stories from the author and other contributors. Excited for the 2025 season! \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781891369902/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781891369902\">Relentless Forward Progress</a> by Bryon Powell 📚 good read, I appreciate the little stories from the author and other contributors. Excited for the 2025 season!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781891369902/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Relentless Forward Progress](https://micro.blog/books/9781891369902) by Bryon Powell 📚 good read, I appreciate the little stories from the author and other contributors. Excited for the 2025 season! \n",
 				"date_published": "2025-04-02T14:33:14-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/02/finished-reading-relentless-forward-progress.html",
 				"tags": ["books"]
@@ -927,7 +1111,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/04/01/i-love-running-at-the.html",
 				
-				"content_html": "<p>I love running at the Stahl&rsquo;s Lake Trails. They wind and weave crisscrossing in a way that just feels good. Mostly single track, I can get 6 miles in this little park without doubling any one section. 🏃❄️☁️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>I love running at the Stahl&rsquo;s Lake Trails. They wind and weave crisscrossing in a way that just feels good. Mostly single track, I can get 6 miles in this little park without doubling any one section. 🏃❄️☁️</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/6642794270.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/62a47a3f76.jpg\" width=\"535\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "I love running at the Stahl's Lake Trails. They wind and weave crisscrossing in a way that just feels good. Mostly single track, I can get 6 miles in this little park without doubling any one section. 🏃❄️☁️\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/6642794270.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/62a47a3f76.jpg\" width=\"535\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-01T15:54:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/04/01/i-love-running-at-the.html"
@@ -935,7 +1119,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/31/got-a-good-laugh-at.html",
 				
-				"content_html": "<p>Got a good laugh at the QA fail on this photoshop work&hellip; 😂</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Got a good laugh at the QA fail on this photoshop work&hellip; 😂</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a6b60d50b7.jpg\" width=\"442\" height=\"600\" alt=\"\">\n",
 				"content_text": "Got a good laugh at the QA fail on this photoshop work... 😂 \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a6b60d50b7.jpg\" width=\"442\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-31T08:42:27-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/31/got-a-good-laugh-at.html"
@@ -952,8 +1136,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/30/finished-reading-the-sorcerers-daughter.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345540829\">The Sorcerer&rsquo;s Daughter</a> by Terry Brooks 📚 The third (and final) book in nice little trilogy.</p>\n",
-				"content_text": "Finished reading: [The Sorcerer's Daughter](https://micro.blog/books/9780345540829) by Terry Brooks 📚 The third (and final) book in nice little trilogy.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780345540829/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780345540829\">The Sorcerer&rsquo;s Daughter</a> by Terry Brooks 📚 The third (and final) book in nice little trilogy.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780345540829/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Sorcerer's Daughter](https://micro.blog/books/9780345540829) by Terry Brooks 📚 The third (and final) book in nice little trilogy.\n",
 				"date_published": "2025-03-30T20:12:31-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/30/finished-reading-the-sorcerers-daughter.html",
 				"tags": ["books"]
@@ -961,7 +1145,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/30/had-a-great-trail-run.html",
 				
-				"content_html": "<p>Had a great trail run in the rain today&hellip; #smarch</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Had a great trail run in the rain today&hellip; #smarch</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/61af7e0413.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Had a great trail run in the rain today... #smarch\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/61af7e0413.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-30T19:52:12-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/30/had-a-great-trail-run.html"
@@ -996,7 +1180,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/29/ran-in-the-ron-daws.html",
 				
-				"content_html": "<p>Ran in the Ron Daws 25K today&hellip; The rain held off and I ended up with a surprise half marathon PR (plus 2.5 bonus miles). I&rsquo;m feeling good at this early point on the season. 😊🏃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Ran in the Ron Daws 25K today&hellip; The rain held off and I ended up with a surprise half marathon PR (plus 2.5 bonus miles). I&rsquo;m feeling good at this early point on the season. 😊🏃</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/75ff26a54b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9953112401.jpg\" width=\"373\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Ran in the Ron Daws 25K today... The rain held off and I ended up with a surprise half marathon PR (plus 2.5 bonus miles). I'm feeling good at this early point on the season. 😊🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/75ff26a54b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9953112401.jpg\" width=\"373\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-29T15:03:54-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/29/ran-in-the-ron-daws.html"
@@ -1004,7 +1188,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/28/had-breakfast-with-a-friend.html",
 				
-				"content_html": "<p>Had breakfast with a friend and colleague this week. Love getting out to Benedict&rsquo;s!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Had breakfast with a friend and colleague this week. Love getting out to Benedict&rsquo;s!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a964875c6e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Had breakfast with a friend and colleague this week. Love getting out to Benedict's! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a964875c6e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-28T23:25:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/28/had-breakfast-with-a-friend.html"
@@ -1012,7 +1196,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/27/i-hope-he-can-always.html",
 				
-				"content_html": "<p>I hope he can always appreciate the simple pleasure of reading out loud to the dog. 💌</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I hope he can always appreciate the simple pleasure of reading out loud to the dog. 💌</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1a4c01b260.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "I hope he can always appreciate the simple pleasure of reading out loud to the dog. 💌\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/1a4c01b260.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-27T18:43:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/27/i-hope-he-can-always.html"
@@ -1020,7 +1204,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/26/jersey-mikes-for-lunch-today.html",
 				
-				"content_html": "<p>Jersey Mike&rsquo;s for lunch today, they&rsquo;re donating 100% of sales (not just profits) to Special Olympics. Tasty&hellip; 😋</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Jersey Mike&rsquo;s for lunch today, they&rsquo;re donating 100% of sales (not just profits) to Special Olympics. Tasty&hellip; 😋</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/074c5229c2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Jersey Mike's for lunch today, they're donating 100% of sales (not just profits) to Special Olympics. Tasty... 😋 \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/074c5229c2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-26T18:40:16-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/26/jersey-mikes-for-lunch-today.html"
@@ -1028,8 +1212,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/25/tonight-i-finished-reading-the.html",
 				
-				"content_html": "<p>Tonight I finished reading: <a href=\"https://micro.blog/books/9780345540805\">The Darkling Child</a> by Terry Brooks 📚 I like having some shorter books like this that I can crank through before driving into another big one.</p>\n",
-				"content_text": "Tonight I finished reading: [The Darkling Child](https://micro.blog/books/9780345540805) by Terry Brooks 📚 I like having some shorter books like this that I can crank through before driving into another big one. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780345540805/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Tonight I finished reading: <a href=\"https://micro.blog/books/9780345540805\">The Darkling Child</a> by Terry Brooks 📚 I like having some shorter books like this that I can crank through before driving into another big one.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780345540805/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nTonight I finished reading: [The Darkling Child](https://micro.blog/books/9780345540805) by Terry Brooks 📚 I like having some shorter books like this that I can crank through before driving into another big one. \n",
 				"date_published": "2025-03-25T21:57:31-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/25/tonight-i-finished-reading-the.html",
 				"tags": ["books"]
@@ -1045,8 +1229,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/23/finished-reading-stillness-is-the.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525538585\">Stillness Is the Key</a> by Ryan Holiday 📚 I particularly appreciated the discussion of &ldquo;Leisure&rdquo; near the end. It&rsquo;s a good way of characterizing why I run these days.</p>\n",
-				"content_text": "Finished reading: [Stillness Is the Key](https://micro.blog/books/9780525538585) by Ryan Holiday 📚 I particularly appreciated the discussion of \"Leisure\" near the end. It's a good way of characterizing why I run these days. \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780525538585/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780525538585\">Stillness Is the Key</a> by Ryan Holiday 📚 I particularly appreciated the discussion of &ldquo;Leisure&rdquo; near the end. It&rsquo;s a good way of characterizing why I run these days.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780525538585/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Stillness Is the Key](https://micro.blog/books/9780525538585) by Ryan Holiday 📚 I particularly appreciated the discussion of \"Leisure\" near the end. It's a good way of characterizing why I run these days. \n",
 				"date_published": "2025-03-23T10:22:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/23/finished-reading-stillness-is-the.html",
 				"tags": ["books"]
@@ -1054,8 +1238,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/22/finished-reading-the-black-prism.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316087544\">The Black Prism</a> by Brent Weeks 📚 yeah, that was a fun one!</p>\n",
-				"content_text": "Finished reading: [The Black Prism](https://micro.blog/books/9780316087544) by Brent Weeks 📚 yeah, that was a fun one! \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316087544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316087544\">The Black Prism</a> by Brent Weeks 📚 yeah, that was a fun one!</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316087544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Black Prism](https://micro.blog/books/9780316087544) by Brent Weeks 📚 yeah, that was a fun one! \n",
 				"date_published": "2025-03-22T23:02:36-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/22/finished-reading-the-black-prism.html",
 				"tags": ["books"]
@@ -1063,7 +1247,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/22/great-group-run-today-the.html",
 				
-				"content_html": "<p>Great group run today. The sun felt warm on a crisp morning ☀️🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Great group run today. The sun felt warm on a crisp morning ☀️🏃</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/6d03598e67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Great group run today. The sun felt warm on a crisp morning ☀️🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/6d03598e67.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-22T23:01:19-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/22/great-group-run-today-the.html"
@@ -1071,7 +1255,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/22/did-a-lateseason-fire-this.html",
 				
-				"content_html": "<p>Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom&rsquo;s iPad&hellip;my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book <a href=\"https://micro.blog/books/9781891369902\">Relentless Forward Progress</a> 📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom&rsquo;s iPad&hellip;my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book <a href=\"https://micro.blog/books/9781891369902\">Relentless Forward Progress</a> 📚</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/20250322-181251.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Did a late-season fire this afternoon. It was the kids' idea, though they got distracted by Mom's iPad...my daughter came back around later to do some flame-watching with me. I enjoyed reading some of my new book [Relentless Forward Progress](https://micro.blog/books/9781891369902) 📚\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/20250322-181251.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-22T20:17:02-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/22/did-a-lateseason-fire-this.html",
@@ -1096,8 +1280,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/19/i-got-microblog-bookshelves-working.html",
 				
-				"content_html": "<p>I got micro.blog bookshelves working after a bit of fumbling around. Now I&rsquo;ve backfilled the books from this year. My active fiction book is <a href=\"https://micro.blog/books/9780316087544\">The Black Prism</a> by Brent Weeks 📚</p>\n",
-				"content_text": "I got micro.blog bookshelves working after a bit of fumbling around. Now I've backfilled the books from this year. My active fiction book is [The Black Prism](https://micro.blog/books/9780316087544) by Brent Weeks 📚 \n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316087544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>I got micro.blog bookshelves working after a bit of fumbling around. Now I&rsquo;ve backfilled the books from this year. My active fiction book is <a href=\"https://micro.blog/books/9780316087544\">The Black Prism</a> by Brent Weeks 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316087544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI got micro.blog bookshelves working after a bit of fumbling around. Now I've backfilled the books from this year. My active fiction book is [The Black Prism](https://micro.blog/books/9780316087544) by Brent Weeks 📚 \n",
 				"date_published": "2025-03-19T17:55:50-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/19/i-got-microblog-bookshelves-working.html",
 				"tags": ["books"]
@@ -1105,7 +1289,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/18/got-out-to-long-lake.html",
 				
-				"content_html": "<p>Got out to Long Lake for some trail running tonight&hellip;good group of us out there! A bit slick and muddy in spots, but a wonderful time in the woods.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Got out to Long Lake for some trail running tonight&hellip;good group of us out there! A bit slick and muddy in spots, but a wonderful time in the woods.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/tnt-20250318.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Got out to Long Lake for some trail running tonight...good group of us out there! A bit slick and muddy in spots, but a wonderful time in the woods.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/tnt-20250318.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-18T21:48:35-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/18/got-out-to-long-lake.html"
@@ -1113,7 +1297,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/17/every-time-i-see-this.html",
 				
-				"content_html": "<p>Every time I see this implementation of a bar graph I shake my head&hellip; It&rsquo;s just wrong in so many ways 😶‍🌫️</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Every time I see this implementation of a bar graph I shake my head&hellip; It&rsquo;s just wrong in so many ways 😶‍🌫️</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/86b0c92c8e.jpg\" width=\"334\" height=\"600\" alt=\"\">\n",
 				"content_text": "Every time I see this implementation of a bar graph I shake my head... It's just wrong in so many ways 😶‍🌫️\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/86b0c92c8e.jpg\" width=\"334\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-17T19:40:52-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/17/every-time-i-see-this.html"
@@ -1121,7 +1305,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/16/my-sons-first-twolves-basketball.html",
 				
-				"content_html": "<p>My son&rsquo;s first T-Wolves basketball game 🏀First 5,000 kids got an Ant jersey. Wolves won big!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>My son&rsquo;s first T-Wolves basketball game 🏀First 5,000 kids got an Ant jersey. Wolves won big!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/66cef3dd92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "My son's first T-Wolves basketball game 🏀First 5,000 kids got an Ant jersey. Wolves won big! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/66cef3dd92.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-16T21:22:18-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/16/my-sons-first-twolves-basketball.html"
@@ -1129,7 +1313,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/15/saw-deer-out-on-my.html",
 				
-				"content_html": "<p>Saw 6 deer out on my windy, rainy run today. Can you find all of them?</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Saw 6 deer out on my windy, rainy run today. Can you find all of them?</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/49accc169d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"content_text": "Saw 6 deer out on my windy, rainy run today. Can you find all of them? \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/49accc169d.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-03-15T19:24:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/15/saw-deer-out-on-my.html"
@@ -1137,7 +1321,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/14/its-scenes-like-this-that.html",
 				
-				"content_html": "<p>It&rsquo;s scenes like this that make me grateful for trusted traveler programs.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>It&rsquo;s scenes like this that make me grateful for trusted traveler programs.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/e584fa5e04.jpg\" width=\"600\" height=\"392\" alt=\"\">\n",
 				"content_text": "It's scenes like this that make me grateful for trusted traveler programs. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/e584fa5e04.jpg\" width=\"600\" height=\"392\" alt=\"\">\n",
 				"date_published": "2025-03-14T05:49:17-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/14/its-scenes-like-this-that.html"
@@ -1145,7 +1329,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/13/found-some-trails-out-in.html",
 				
-				"content_html": "<p>Found some trails out in the greater Boston area 🏃😊 though I got a bit of course&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Found some trails out in the greater Boston area 🏃😊 though I got a bit of course&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d0ac780478.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Found some trails out in the greater Boston area 🏃😊 though I got a bit of course... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d0ac780478.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-13T22:44:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/13/found-some-trails-out-in.html"
@@ -1153,7 +1337,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/12/i-appreciate-the-merchandising-at.html",
 				
-				"content_html": "<p>I appreciate the merchandising at this little bookstore.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I appreciate the merchandising at this little bookstore.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/726c5a26e1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "I appreciate the merchandising at this little bookstore. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/726c5a26e1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-12T10:14:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/12/i-appreciate-the-merchandising-at.html"
@@ -1161,7 +1345,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/11/ran-through-every-mud-puddle.html",
 				
-				"content_html": "<p>Ran through every mud puddle I could find tonight. Surprised I stayed this clean.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Ran through every mud puddle I could find tonight. Surprised I stayed this clean.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/af9e403ad2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Ran through every mud puddle I could find tonight. Surprised I stayed this clean. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/af9e403ad2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-11T21:36:30-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/11/ran-through-every-mud-puddle.html"
@@ -1169,7 +1353,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/10/with-the-nice-weather-yesterday.html",
 				
-				"content_html": "<p>With the nice weather yesterday my son tried his bike without training wheels, which was the bar to meet for getting his next (bigger and appropriately sized) bike. Found him some new wheels at a local bike shop.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>With the nice weather yesterday my son tried his bike without training wheels, which was the bar to meet for getting his next (bigger and appropriately sized) bike. Found him some new wheels at a local bike shop.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/753f770de8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "With the nice weather yesterday my son tried his bike without training wheels, which was the bar to meet for getting his next (bigger and appropriately sized) bike. Found him some new wheels at a local bike shop. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/753f770de8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-10T22:34:41-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/10/with-the-nice-weather-yesterday.html"
@@ -1194,7 +1378,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/08/what-a-fun-time-skiing.html",
 				
-				"content_html": "<p>What a fun time skiing with the fam, friends, and new friends at Giants Ridge!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>What a fun time skiing with the fam, friends, and new friends at Giants Ridge!</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/d9f61af50b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/6d270f05d3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9f97613787.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9b5fa0773e.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "What a fun time skiing with the fam, friends, and new friends at Giants Ridge! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/d9f61af50b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/6d270f05d3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9f97613787.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/9b5fa0773e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-08T08:08:19-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/08/what-a-fun-time-skiing.html"
@@ -1202,7 +1386,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/06/snow-cat-doing-some-grooming.html",
 				
-				"content_html": "<p>Snow Cat doing some grooming&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Snow Cat doing some grooming&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0892cb2424.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Snow Cat doing some grooming... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/0892cb2424.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-06T22:30:25-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/06/snow-cat-doing-some-grooming.html"
@@ -1210,7 +1394,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/05/before-and-after-blustering-winds.html",
 				
-				"content_html": "<p>Before and after&hellip; Blustering winds added a light coating after I passed through. ❄️ Hoping I can get out of the neighborhood&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Before and after&hellip; Blustering winds added a light coating after I passed through. ❄️ Hoping I can get out of the neighborhood&hellip;</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/ac0da69193.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/110e3b2927.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Before and after... Blustering winds added a light coating after I passed through. ❄️ Hoping I can get out of the neighborhood... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/ac0da69193.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/110e3b2927.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-05T09:24:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/05/before-and-after-blustering-winds.html"
@@ -1218,7 +1402,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/04/current-audiobook-started-over-the.html",
 				
-				"content_html": "<p>Current audiobook started over the weekend&hellip; so much more depth than the movies. I appreciate the intrigue.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Current audiobook started over the weekend&hellip; so much more depth than the movies. I appreciate the intrigue.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/70721263a7.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
 				"content_text": "Current audiobook started over the weekend... so much more depth than the movies. I appreciate the intrigue. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/70721263a7.jpg\" width=\"279\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-04T22:09:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/04/current-audiobook-started-over-the.html",
@@ -1227,7 +1411,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/03/got-out-for-a-nice.html",
 				
-				"content_html": "<p>Got out for a nice Muddy Monday run at Elm Creek. Sunny and 50 is still so weird for this time of year in MN. 🏃</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Got out for a nice Muddy Monday run at Elm Creek. Sunny and 50 is still so weird for this time of year in MN. 🏃</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/90f1c526aa.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/880139d243.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Got out for a nice Muddy Monday run at Elm Creek. Sunny and 50 is still so weird for this time of year in MN. 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/90f1c526aa.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/880139d243.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-03T23:01:05-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/03/got-out-for-a-nice.html"
@@ -1235,7 +1419,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/02/pinewood-derby-build-complete.html",
 				
-				"content_html": "<p>Pinewood derby build complete!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Pinewood derby build complete!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/5f0f5ed400.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Pinewood derby build complete! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/5f0f5ed400.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-02T14:34:13-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/02/pinewood-derby-build-complete.html"
@@ -1243,7 +1427,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/03/01/skijammers-family-day-at-wild.html",
 				
-				"content_html": "<p>Skijammers Family day at Wild Mountain was a success! My daughter has made tremendous progress this season and it was a joy to have both kids skiing together today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Skijammers Family day at Wild Mountain was a success! My daughter has made tremendous progress this season and it was a joy to have both kids skiing together today.</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/9cd2fb6c9b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/e3a12edfed.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "Skijammers Family day at Wild Mountain was a success! My daughter has made tremendous progress this season and it was a joy to have both kids skiing together today.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9cd2fb6c9b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/e3a12edfed.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-03-01T21:44:27-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/03/01/skijammers-family-day-at-wild.html"
@@ -1251,7 +1435,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/28/tonights-plans-with-the-kids.html",
 				
-				"content_html": "<p>Tonight&rsquo;s plans with the kids&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Tonight&rsquo;s plans with the kids&hellip;</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/503df25448.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Tonight's plans with the kids... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/503df25448.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-28T19:50:37-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/28/tonights-plans-with-the-kids.html"
@@ -1267,7 +1451,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/26/im-helping-my-son-with.html",
 				
-				"content_html": "<p>I&rsquo;m helping my son with his Pinewood Derby car. He designed it, we did the wood working today, and it&rsquo;s almost ready for painting. I&rsquo;ll bet his is the only one with a windhield when he races. 😎 🚗</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I&rsquo;m helping my son with his Pinewood Derby car. He designed it, we did the wood working today, and it&rsquo;s almost ready for painting. I&rsquo;ll bet his is the only one with a windhield when he races. 😎 🚗</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9ba12fecf6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "I'm helping my son with his Pinewood Derby car. He designed it, we did the wood working today, and it's almost ready for painting. I'll bet his is the only one with a windhield when he races. 😎 🚗\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/9ba12fecf6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-26T21:21:07-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/26/im-helping-my-son-with.html"
@@ -1316,7 +1500,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/23/i-did-my-run-later.html",
 				
-				"content_html": "<p>I did my run later in the afternoon today&hellip;in shorts! (in MN in February) It was still 50° when I started but it definitely felt colder 90 mins later as the sun went down.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>I did my run later in the afternoon today&hellip;in shorts! (in MN in February) It was still 50° when I started but it definitely felt colder 90 mins later as the sun went down.</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/e775e61593.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/5794be477c.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "I did my run later in the afternoon today...in shorts! (in MN in February) It was still 50° when I started but it definitely felt colder 90 mins later as the sun went down. \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/e775e61593.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/5794be477c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-23T21:06:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/23/i-did-my-run-later.html"
@@ -1324,7 +1508,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/23/pinewood-derby-planning-this-morning.html",
 				
-				"content_html": "<p>Pinewood derby planning this morning&hellip; A couple of first timers, but the plan is coming together 🚗🏁</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Pinewood derby planning this morning&hellip; A couple of first timers, but the plan is coming together 🚗🏁</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/3dfbd3c527.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/00ab66b8a5.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Pinewood derby planning this morning... A couple of first timers, but the plan is coming together 🚗🏁\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/3dfbd3c527.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/00ab66b8a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-23T13:43:28-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/23/pinewood-derby-planning-this-morning.html"
@@ -1340,7 +1524,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/22/it-was-a-perfect-day.html",
 				
-				"content_html": "<p>It was a perfect day for skiing at <a href=\"https://trollhaugen.com/\">Trollhaugen</a>. Got out with my youngest along with the SkiJammers sibling group. He&rsquo;s made so much progress this year! Feel so fortunate to have a group of families with similarly-aged kids who are also interested in skiing.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>It was a perfect day for skiing at <a href=\"https://trollhaugen.com/\">Trollhaugen</a>. Got out with my youngest along with the SkiJammers sibling group. He&rsquo;s made so much progress this year! Feel so fortunate to have a group of families with similarly-aged kids who are also interested in skiing.</p>\n<p><img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-104343.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-105232.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/img-20250222-170300.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
 				"content_text": "It was a perfect day for skiing at [Trollhaugen](https://trollhaugen.com/). Got out with my youngest along with the SkiJammers sibling group. He's made so much progress this year! Feel so fortunate to have a group of families with similarly-aged kids who are also interested in skiing.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-104343.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/20250222-105232.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2025/img-20250222-170300.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-22T21:53:46-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/22/it-was-a-perfect-day.html"
@@ -1364,7 +1548,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/20/my-body-is-continuing-to.html",
 				
-				"content_html": "<p>My body is continuing to recover from the race last week&hellip; And it&rsquo;s still cold outside. Before and after picture from my run this morning. 🏃</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>My body is continuing to recover from the race last week&hellip; And it&rsquo;s still cold outside. Before and after picture from my run this morning. 🏃</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a296748a7d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "My body is continuing to recover from the race last week... And it's still cold outside. Before and after picture from my run this morning. 🏃\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2025/a296748a7d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-20T15:45:02-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/20/my-body-is-continuing-to.html"
@@ -1396,7 +1580,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/18/still-very-cold-out-there.html",
 				
-				"content_html": "<p>Still very cold out there today, our kids school start was delayed to let things warm up, other schools are canceling outright. I suppose it has warmed up a bit&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Still very cold out there today, our kids school start was delayed to let things warm up, other schools are canceling outright. I suppose it has warmed up a bit&hellip;</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/4720151170.jpg\" width=\"600\" height=\"496\" alt=\"\">\n",
 				"content_text": "Still very cold out there today, our kids school start was delayed to let things warm up, other schools are canceling outright. I suppose it has warmed up a bit... \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/4720151170.jpg\" width=\"600\" height=\"496\" alt=\"\">\n",
 				"date_published": "2025-02-18T10:41:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/18/still-very-cold-out-there.html"
@@ -1404,7 +1588,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/17/my-wife-and-i-have.html",
 				
-				"content_html": "<p>My wife and I have really enjoyed playing <a href=\"https://boardgamegeek.com/boardgame/266192/wingspan\">Wingspan</a>. Fun, competitive (but not cutthroat), and gorgeous.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>My wife and I have really enjoyed playing <a href=\"https://boardgamegeek.com/boardgame/266192/wingspan\">Wingspan</a>. Fun, competitive (but not cutthroat), and gorgeous.</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/acc62c62d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "My wife and I have really enjoyed playing [Wingspan](https://boardgamegeek.com/boardgame/266192/wingspan). Fun, competitive (but not cutthroat), and gorgeous. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/acc62c62d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-17T22:59:01-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/17/my-wife-and-i-have.html"
@@ -1420,7 +1604,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/17/another-one-of-those-chilly.html",
 				
-				"content_html": "<p>Another one of those chilly days today&hellip; Grateful to have a nice warm home and the choice to stay in.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Another one of those chilly days today&hellip; Grateful to have a nice warm home and the choice to stay in.</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/21c0bff866.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"content_text": "Another one of those chilly days today... Grateful to have a nice warm home and the choice to stay in. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/21c0bff866.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-17T09:18:08-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/17/another-one-of-those-chilly.html"
@@ -1428,7 +1612,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/16/got-out-for-a-nice.html",
 				
-				"content_html": "<p>Got out for a nice 🌞🏃 today, even though it&rsquo;s cold out there. Wrapping a light mileage week after a race, feeling stronger each day, will continue ramping this week.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Got out for a nice 🌞🏃 today, even though it&rsquo;s cold out there. Wrapping a light mileage week after a race, feeling stronger each day, will continue ramping this week.</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/dfd3067128.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Got out for a nice 🌞🏃 today, even though it's cold out there. Wrapping a light mileage week after a race, feeling stronger each day, will continue ramping this week. \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/dfd3067128.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-16T12:36:42-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/16/got-out-for-a-nice.html"
@@ -1436,7 +1620,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/15/boys-will-be-boys-watching.html",
 				
-				"content_html": "<p>Boys will be boys (watching USA Vs Canada hockey)</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Boys will be boys (watching USA Vs Canada hockey)</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/6d5837abb6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Boys will be boys (watching USA Vs Canada hockey) \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/6d5837abb6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-15T22:21:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/15/boys-will-be-boys-watching.html"
@@ -1444,7 +1628,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/15/cub-scouts-ice-fishing-day.html",
 				
-				"content_html": "<p>Cub Scouts ice fishing day was a bust, but H said &ldquo;that&rsquo;s okay&hellip;let&rsquo;s make our own fun.&rdquo; So we did 🌞</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Cub Scouts ice fishing day was a bust, but H said &ldquo;that&rsquo;s okay&hellip;let&rsquo;s make our own fun.&rdquo; So we did 🌞</p>\n<p><img src=\"https://mathyousee.micro.blog/uploads/2025/c4235a3b76.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://mathyousee.micro.blog/uploads/2025/4da7e4c8f1.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
 				"content_text": "Cub Scouts ice fishing day was a bust, but H said \"that's okay...let's make our own fun.\" So we did 🌞 \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/c4235a3b76.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://mathyousee.micro.blog/uploads/2025/4da7e4c8f1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-15T14:42:39-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/15/cub-scouts-ice-fishing-day.html"
@@ -1460,8 +1644,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/14/currently-reading-a-crown-of.html",
 				
-				"content_html": "<p>I&rsquo;ve started back into <a href=\"https://micro.blog/books/9781250252081\">A Crown of Swords</a> by Robert Jordan 📚 I&rsquo;d made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.</p>\n",
-				"content_text": "I've started back into [A Crown of Swords](https://micro.blog/books/9781250252081) by Robert Jordan 📚 I'd made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250252081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>I&rsquo;ve started back into <a href=\"https://micro.blog/books/9781250252081\">A Crown of Swords</a> by Robert Jordan 📚 I&rsquo;d made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250252081/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI've started back into [A Crown of Swords](https://micro.blog/books/9781250252081) by Robert Jordan 📚 I'd made good progress through book 6 of the series, but paused a couple of years back when I changed roles at work. Excited to be back at it.\n",
 				"date_published": "2025-02-14T22:31:54-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/14/currently-reading-a-crown-of.html",
 				"tags": ["books"]
@@ -1469,7 +1653,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/14/i-felt-ready-to-get.html",
 				
-				"content_html": "<p>I felt ready to get out running again today&hellip; my Garmin agreed (after a couple days at 1 then 19). It&rsquo;s a lot colder out back home in Minny compared to Arizona. Still glad to get back out there!</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I felt ready to get out running again today&hellip; my Garmin agreed (after a couple days at 1 then 19). It&rsquo;s a lot colder out back home in Minny compared to Arizona. Still glad to get back out there!</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d537ac2d07.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "I felt ready to get out running again today... my Garmin agreed (after a couple days at 1 then 19). It's a lot colder out back home in Minny compared to Arizona. Still glad to get back out there! \n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d537ac2d07.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-14T10:59:03-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/14/i-felt-ready-to-get.html"
@@ -1486,7 +1670,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/12/using-the-recovery-room-at.html",
 				
-				"content_html": "<p>Using the recovery room at my running gym. Normatec sleeves have been a great help to get my legs get back to normal after a race.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Using the recovery room at my running gym. Normatec sleeves have been a great help to get my legs get back to normal after a race.</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/1201c3bf42.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Using the recovery room at my running gym. Normatec sleeves have been a great help to get my legs get back to normal after a race.\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/1201c3bf42.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-12T09:06:33-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/12/using-the-recovery-room-at.html"
@@ -1494,7 +1678,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/09/ran-the-black-canyon-ultras.html",
 				
-				"content_html": "<p>Ran the Black Canyon Ultras 50K today! What a blast..but now I&rsquo;m exhausted 🎽🏃‍➡️🪨🚀🍕🍗🏈🥣🛌</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Ran the Black Canyon Ultras 50K today! What a blast..but now I&rsquo;m exhausted 🎽🏃‍➡️🪨🚀🍕🍗🏈🥣🛌</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d071f6f141.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "Ran the Black Canyon Ultras 50K today! What a blast..but now I'm exhausted 🎽🏃‍➡️🪨🚀🍕🍗🏈🥣🛌\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/d071f6f141.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-02-09T21:12:35-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/09/ran-the-black-canyon-ultras.html"
@@ -1502,7 +1686,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/07/hiking-near-sedona-is-really.html",
 				
-				"content_html": "<p>Hiking near Sedona is really pretty&hellip; This is Red Rock Secret Mountain</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Hiking near Sedona is really pretty&hellip; This is Red Rock Secret Mountain</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Hiking near Sedona is really pretty... This is Red Rock Secret Mountain\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-07T17:36:59-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/07/hiking-near-sedona-is-really.html"
@@ -1510,7 +1694,7 @@
 			{
 				"id": "http://mathyousee.micro.blog/2025/02/06/i-was-today-years-old.html",
 				
-				"content_html": "<p>I was today years old when I first saw the Grand Canyon in person. Wow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>I was today years old when I first saw the Grand Canyon in person. Wow.</p>\n<img src=\"https://mathyousee.micro.blog/uploads/2025/20250206-123940.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "I was today years old when I first saw the Grand Canyon in person. Wow.\n\n<img src=\"https://mathyousee.micro.blog/uploads/2025/20250206-123940.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-06T21:47:04-05:00",
 				"url": "https://notes.matthewcanderson.com/2025/02/06/i-was-today-years-old.html",
