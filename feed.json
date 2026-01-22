@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/01/22/finished-reading-storm-front-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101636466\">Storm Front</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101636466/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Storm Front](https://micro.blog/books/9781101636466) by John Sandford 📚\n",
+				"date_published": "2026-01-22T07:15:09-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/01/22/finished-reading-storm-front-by.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/01/20/replacing-my-digital-journaling-workflow.html",
 				
 				"content_html": "<p><a href=\"https://blog.matthewcanderson.com/digital-journal-workflow-tasker/\">Replacing my digital journaling workflow with Tasker</a></p>\n",
