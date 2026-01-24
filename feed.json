@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/01/23/start-time-for-my-race.html",
+				
+				"content_html": "<p>Start time for my race tomorrow is still looking brisk&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Start time for my race tomorrow is still looking brisk... \n\n<img src=\"uploads/2026/a4de7f30fc.png\" width=\"300\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-23T21:19:03-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/01/23/start-time-for-my-race.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/01/22/finished-reading-storm-front-by.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101636466\">Storm Front</a> by John Sandford 📚</p>\n",
@@ -43,7 +51,7 @@
 				"id": "http://mathyousee.micro.blog/2026/01/17/the-receipt-from-my-daughters.html",
 				
 				"content_html": "<p>The receipt from my daughter&rsquo;s insult booth. I had a pass holder discount and she was also running a sale. Quite the deal, I got one insult and one compliment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The receipt from my daughter's insult booth. I had a pass holder discount and she was also running a sale. Quite the deal, I got one insult and one compliment.\n\n<img src=\"uploads/2026/02c0b6c7fa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The receipt from my daughter's insult booth. I had a pass holder discount and she was also running a sale. Quite the deal, I got one insult and one compliment.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/02c0b6c7fa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-17T17:58:36-06:00",
 				"url": "https://notes.matthewcanderson.com/2026/01/17/the-receipt-from-my-daughters.html"
 			},
