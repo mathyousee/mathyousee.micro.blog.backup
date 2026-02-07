@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/02/07/finished-reading-the-alchemist-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780061122415\">The Alchemist</a> by Paulo Coelho 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780061122415/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Alchemist](https://micro.blog/books/9780061122415) by Paulo Coelho 📚\n",
+				"date_published": "2026-02-07T16:07:17-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/02/07/finished-reading-the-alchemist-by.html",
+				"tags": ["books"]
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/02/05/i-dropped-my-plus-subscription.html",
+				
+				"content_html": "<p>I dropped my Plus subscription to ChatGPT when they announced ads and re-upped my Claude Pro subscription. <a href=\"https://www.anthropic.com/news/claude-is-a-space-to-think\">This Anthropic post</a> calls out their intentions regarding ads and makes me feel good about my decision.</p>\n",
+				"content_text": "I dropped my Plus subscription to ChatGPT when they announced ads and re-upped my Claude Pro subscription. [This Anthropic post](https://www.anthropic.com/news/claude-is-a-space-to-think) calls out their intentions regarding ads and makes me feel good about my decision.\n",
+				"date_published": "2026-02-05T06:46:51-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/02/05/i-dropped-my-plus-subscription.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/02/05/finished-reading-whistle-by-linwood.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063436022\">Whistle</a> by Linwood Barclay 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780063436022/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Whistle](https://micro.blog/books/9780063436022) by Linwood Barclay 📚\n",
+				"date_published": "2026-02-05T06:28:56-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/02/05/finished-reading-whistle-by-linwood.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/02/05/finished-reading-i-will-ruin.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780063276338\">I Will Ruin You</a> by Linwood Barclay 📚</p>\n",
@@ -36,7 +62,7 @@
 				"id": "http://mathyousee.micro.blog/2026/01/25/it-was-definitely-chilly-yesterday.html",
 				
 				"content_html": "<p>It was definitely &ldquo;Chilly&rdquo; yesterday for the 10K. The AI summary &ldquo;wasn&rsquo;t wrong&rdquo; though perhaps at -23⁰F before wind-chill it was understating the cold.</p>\n<p>My layering was on point, so I felt great.</p>\n<p>Then heartbroken after the race to learn about another killing by ICE in Mpls.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It was definitely \"Chilly\" yesterday for the 10K. The AI summary \"wasn't wrong\" though perhaps at -23⁰F before wind-chill it was understating the cold. \n\nMy layering was on point, so I felt great. \n\nThen heartbroken after the race to learn about another killing by ICE in Mpls.\n\n<img src=\"uploads/2026/576813a934.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/8fc264ef15.png\" width=\"600\" height=\"193\" alt=\"\">\n",
+				"content_text": "It was definitely \"Chilly\" yesterday for the 10K. The AI summary \"wasn't wrong\" though perhaps at -23⁰F before wind-chill it was understating the cold. \n\nMy layering was on point, so I felt great. \n\nThen heartbroken after the race to learn about another killing by ICE in Mpls.\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/576813a934.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/8fc264ef15.png\" width=\"600\" height=\"193\" alt=\"\">\n",
 				"date_published": "2026-01-25T13:41:20-06:00",
 				"url": "https://notes.matthewcanderson.com/2026/01/25/it-was-definitely-chilly-yesterday.html"
 			},
@@ -44,7 +70,7 @@
 				"id": "http://mathyousee.micro.blog/2026/01/23/start-time-for-my-race.html",
 				
 				"content_html": "<p>Start time for my race tomorrow is still looking brisk&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Start time for my race tomorrow is still looking brisk... \n\n<img src=\"uploads/2026/a4de7f30fc.png\" width=\"300\" height=\"600\" alt=\"\">\n",
+				"content_text": "Start time for my race tomorrow is still looking brisk... \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/a4de7f30fc.png\" width=\"300\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-23T21:19:03-06:00",
 				"url": "https://notes.matthewcanderson.com/2026/01/23/start-time-for-my-race.html"
 			},
