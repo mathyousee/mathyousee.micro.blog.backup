@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/02/19/new-blog-post-pasting-teams.html",
+				
+				"content_html": "<p>New blog post: <a href=\"https://blog.matthewcanderson.com/teams-copilot-recap-in-obsidian/\">Pasting Teams Copilot Recap in Obsidian</a></p>\n<p>Took the time to come up with a fix for this little nagging issue.</p>\n",
+				"content_text": "New blog post: [Pasting Teams Copilot Recap in Obsidian](https://blog.matthewcanderson.com/teams-copilot-recap-in-obsidian/)\n\nTook the time to come up with a fix for this little nagging issue.\n",
+				"date_published": "2026-02-19T19:04:33-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/02/19/new-blog-post-pasting-teams.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/02/13/this-inconsistency-makes-me-chuckle.html",
 				
 				"content_html": "<p>This inconsistency makes me chuckle 😆</p>\n<!-- raw HTML omitted -->\n",
