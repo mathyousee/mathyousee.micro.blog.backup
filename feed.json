@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/04/16/finished-reading-enemy-of-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781476783536\">Enemy of the State</a> by Vince Flynn 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781476783536/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Enemy of the State](https://micro.blog/books/9781476783536) by Vince Flynn 📚\n",
+				"date_published": "2026-04-16T21:37:11-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/04/16/finished-reading-enemy-of-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/04/13/what-a-day-it-was.html",
 				
 				"content_html": "<p>What a day it was on Saturday. The Zion 100k is in the books!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -42,7 +51,7 @@
 				"id": "http://mathyousee.micro.blog/2026/04/09/luggage-tracking-info-in-my.html",
 				
 				"content_html": "<p>Luggage tracking info in my seat back entertainment. That&rsquo;s a new one for me&hellip;I dig it!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Luggage tracking info in my seat back entertainment. That's a new one for me...I dig it! \n\n<img src=\"uploads/2026/9036a8b15f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Luggage tracking info in my seat back entertainment. That's a new one for me...I dig it! \n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/9036a8b15f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-04-09T09:31:48-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/04/09/luggage-tracking-info-in-my.html"
 			},
