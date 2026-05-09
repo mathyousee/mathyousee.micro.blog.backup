@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/05/09/finished-reading-oathbringer-book-three.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780765399830\">Oathbringer Book Three of the Stormlight Archive</a> by Brandon Sanderson 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780765399830/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Oathbringer Book Three of the Stormlight Archive](https://micro.blog/books/9780765399830) by Brandon Sanderson 📚\n",
+				"date_published": "2026-05-09T07:04:04-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/05/09/finished-reading-oathbringer-book-three.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/04/21/finished-reading-field-of-prey.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780399162381\">Field of Prey</a> by John Sandford 📚</p>\n",
@@ -53,7 +62,7 @@
 				"id": "http://mathyousee.micro.blog/2026/04/10/the-view-from-my-tiny.html",
 				
 				"content_html": "<p>The view from my tiny house vacation rental this morning lived up to my hopes</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The view from my tiny house vacation rental this morning lived up to my hopes\n\n<img src=\"uploads/2026/9803163ecb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The view from my tiny house vacation rental this morning lived up to my hopes\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/9803163ecb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-10T12:23:54-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/04/10/the-view-from-my-tiny.html"
 			},
