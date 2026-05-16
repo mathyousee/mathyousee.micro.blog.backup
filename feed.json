@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/05/16/wow-my-buddy-brian-just.html",
+				
+				"content_html": "<p>Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!\n\n<img src=\"uploads/2026/551f6324d0.png\" width=\"600\" height=\"537\" alt=\"\"><img src=\"uploads/2026/1160c07ea7.png\" width=\"281\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-05-16T14:09:52-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/05/16/wow-my-buddy-brian-just.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/05/15/rc-sailboat-racing.html",
+				
+				"content_html": "<p>RC sailboat racing</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "RC sailboat racing\n\n<img src=\"uploads/2026/6a30726275.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-05-15T07:19:56-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/05/15/rc-sailboat-racing.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/05/14/finished-reading-rough-country-by.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781398512139\">Rough Country</a> by John Sandford 📚</p>\n",
@@ -64,7 +80,7 @@
 				"id": "http://mathyousee.micro.blog/2026/04/13/what-a-day-it-was.html",
 				
 				"content_html": "<p>What a day it was on Saturday. The Zion 100k is in the books!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "What a day it was on Saturday. The Zion 100k is in the books!\n\n\n<img src=\"uploads/2026/77b88f9e63.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/2912033d80.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/0f31cbae68.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/ed4c3654c7.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/98bf9f8897.jpg\" width=\"600\" height=\"490\" alt=\"\">\n",
+				"content_text": "What a day it was on Saturday. The Zion 100k is in the books!\n\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/77b88f9e63.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/2912033d80.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/0f31cbae68.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/ed4c3654c7.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/98bf9f8897.jpg\" width=\"600\" height=\"490\" alt=\"\">\n",
 				"date_published": "2026-04-13T04:15:27-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/04/13/what-a-day-it-was.html"
 			},
