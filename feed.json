@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/07/03/finished-reading-the-gathering-storm.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780765302304\">The Gathering Storm Book Twelve of the Wheel of Time</a> by Robert Jordan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780765302304/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Gathering Storm Book Twelve of the Wheel of Time](https://micro.blog/books/9780765302304) by Robert Jordan 📚\n",
+				"date_published": "2026-07-03T20:24:20-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/07/03/finished-reading-the-gathering-storm.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/07/01/ran-a-tacobeerrepeat-run-with.html",
 				
 				"content_html": "<p>Ran a Taco-Beer-Repeat run with some friends over the weekend. Fun concept, we&rsquo;ll do it again!</p>\n<!-- raw HTML omitted -->\n",
@@ -133,7 +142,7 @@
 				"id": "http://mathyousee.micro.blog/2026/05/16/wow-my-buddy-brian-just.html",
 				
 				"content_html": "<p>Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!\n\n<img src=\"uploads/2026/551f6324d0.png\" width=\"600\" height=\"537\" alt=\"\"><img src=\"uploads/2026/1160c07ea7.png\" width=\"281\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/551f6324d0.png\" width=\"600\" height=\"537\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/1160c07ea7.png\" width=\"281\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-16T14:09:52-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/05/16/wow-my-buddy-brian-just.html"
 			},
