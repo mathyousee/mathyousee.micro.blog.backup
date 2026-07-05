@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/07/04/it-was-a-warm-one.html",
+				
+				"content_html": "<p>It was a warm one out there, but overall a beautiful day at the 33rd Afton 50k! So many friends running and volunteering.🏃🎆</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "It was a warm one out there, but overall a beautiful day at the 33rd Afton 50k! So many friends running and volunteering.🏃🎆\n\n<img src=\"uploads/2026/46afa07d0b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2026/b08d578d26.png\" width=\"337\" height=\"600\" alt=\"\"><img src=\"uploads/2026/85d9f44c5f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2026/0450ed3e6c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-07-04T21:13:07-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/07/04/it-was-a-warm-one.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/07/04/afton-trail-run-k-today.html",
+				
+				"content_html": "<p>Afton Trail Run 50k today</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Afton Trail Run 50k today\n\n<img src=\"uploads/2026/1bc7f7624d.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-07-04T05:53:55-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/07/04/afton-trail-run-k-today.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/07/03/finished-reading-righteous-prey-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593422489\">Righteous Prey</a> by John Sandford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593422489/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Righteous Prey](https://micro.blog/books/9780593422489) by John Sandford 📚\n",
+				"date_published": "2026-07-03T20:25:34-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/07/03/finished-reading-righteous-prey-by.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/07/03/finished-reading-the-gathering-storm.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780765302304\">The Gathering Storm Book Twelve of the Wheel of Time</a> by Robert Jordan 📚</p>\n",
@@ -142,7 +167,7 @@
 				"id": "http://mathyousee.micro.blog/2026/05/16/wow-my-buddy-brian-just.html",
 				
 				"content_html": "<p>Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/551f6324d0.png\" width=\"600\" height=\"537\" alt=\"\"><img src=\"https://notes.matthewcanderson.com/uploads/2026/1160c07ea7.png\" width=\"281\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wow! My buddy Brian just won the Cruel Jewel 100mi ultramarathon!\n\n<img src=\"uploads/2026/551f6324d0.png\" width=\"600\" height=\"537\" alt=\"\"><img src=\"uploads/2026/1160c07ea7.png\" width=\"281\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-16T14:09:52-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/05/16/wow-my-buddy-brian-just.html"
 			},
