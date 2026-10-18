@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/10/18/continuing-my-linux-as-personal.html",
+				
+				"content_html": "<p>Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I&rsquo;ve set liberation-sans as the default font there.</p>\n<img src=\"uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
+				"content_text": "Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I've set liberation-sans as the default font there.\n\n\n<img src=\"uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
+				"date_published": "2026-10-18T10:00:37-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/18/continuing-my-linux-as-personal.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/16/ive-wasted-too-much-time.html",
+				
+				"content_html": "<p>I&rsquo;ve wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.</p>\n<p>Turns out you can just click the &ldquo;W&rdquo; in the calendar view.</p>\n<p>That updates a setting in <code>~/.config/omarchy/shell.json</code>:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-json\" data-lang=\"json\">{\n  <span style=\"color:#f92672\">&#34;id&#34;</span>: <span style=\"color:#e6db74\">&#34;omarchy.clock&#34;</span>,\n  <span style=\"color:#f92672\">&#34;weekStartDay&#34;</span>: <span style=\"color:#e6db74\">&#34;monday&#34;</span>\n}\n</code></pre></div><img src=\"uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
+				"content_text": "I've wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.  \n\nTurns out you can just click the \"W\" in the calendar view.\n\nThat updates a setting in `~/.config/omarchy/shell.json`:\n\n\n```json\n{\n  \"id\": \"omarchy.clock\",\n  \"weekStartDay\": \"monday\"\n}\n```\n\n<img src=\"uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
+				"date_published": "2026-10-16T14:23:38-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/16/ive-wasted-too-much-time.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/16/finished-reading-out-of-range.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780399575723/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780399575723\">Out of Range</a> by C. J. Box 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780399575723/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Out of Range](https://micro.blog/books/9780399575723) by C. J. Box 📚\n",
+				"date_published": "2026-10-16T13:26:37-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/16/finished-reading-out-of-range.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/10/16/finished-reading-trophy-hunt-by.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780425202937/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780425202937\">Trophy Hunt</a> by C. J. Box 📚</p>\n",
