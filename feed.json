@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/10/21/i-often-look-at-ai.html",
+				
+				"content_html": "<p>I often look at AI solutions being shared broadly and ask myself, &ldquo;is this helping solve a real problem?&rdquo;. Tim Ferris summarized my rationale for this in a very succinct way:</p>\n<blockquote>\n<p>Technology tools and AI in particular are accelerants. They make more of whatever it is. And if you do not first identify the critical few, the very, very limited set of things that stand a chance of making a huge difference, AI, and so on, simply multiplies the useless and multiplies the unimportant, the trivial, the distracting, and you can end up then trying to automate all of those things.</p>\n</blockquote>\n<p><a href=\"https://open.spotify.com/episode/7JSZX9rmDcRW88aB2vTcfM?si=CVR9zy0DQcysTpnK2NKeeA&amp;utm_source=copy-link&amp;t=248&amp;ct=248\">Tim Ferriss #887</a></p>\n",
+				"content_text": "I often look at AI solutions being shared broadly and ask myself, \"is this helping solve a real problem?\". Tim Ferris summarized my rationale for this in a very succinct way:\n\n> Technology tools and AI in particular are accelerants. They make more of whatever it is. And if you do not first identify the critical few, the very, very limited set of things that stand a chance of making a huge difference, AI, and so on, simply multiplies the useless and multiplies the unimportant, the trivial, the distracting, and you can end up then trying to automate all of those things.\n\n[Tim Ferriss #887](https://open.spotify.com/episode/7JSZX9rmDcRW88aB2vTcfM?si=CVR9zy0DQcysTpnK2NKeeA&utm_source=copy-link&t=248&ct=248)\n",
+				"date_published": "2026-10-21T07:50:39-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/21/i-often-look-at-ai.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/10/18/continuing-my-linux-as-personal.html",
 				
 				"content_html": "<p>Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I&rsquo;ve set liberation-sans as the default font there.</p>\n<img src=\"uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
