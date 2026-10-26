@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/10/25/on-my-omarchy-setup-i.html",
+				
+				"content_html": "<p>On my Omarchy setup, I found that each time I restarted I was opening email apps on one virtual desktop with the <em>scrolling</em> option (Super + L) and and resizing them to take up most of the screen width. Once I realized this I had my default agent store and set those defaults so that&rsquo;d be automatic.</p>\n",
+				"content_text": "On my Omarchy setup, I found that each time I restarted I was opening email apps on one virtual desktop with the _scrolling_ option (Super + L) and and resizing them to take up most of the screen width. Once I realized this I had my default agent store and set those defaults so that'd be automatic.\n",
+				"date_published": "2026-10-25T23:10:26-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/25/on-my-omarchy-setup-i.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/24/gophs-win.html",
+				
+				"content_html": "<p>Gophs win!</p>\n<img src=\"uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Gophs win!\n\n<img src=\"uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-10-24T19:19:44-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/24/gophs-win.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/10/24/watched-crystal-lake-season-origin.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/tv/213562/season/1\">Crystal Lake Season 1</a> 🍿</p>\n<p>Origin story&hellip; Had some great moments and overall worth the watch.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2026/10/16/ive-wasted-too-much-time.html",
 				
-				"content_html": "<p>I&rsquo;ve wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.</p>\n<p>Turns out you can just click the &ldquo;W&rdquo; in the calendar view.</p>\n<p>That updates a setting in <code>~/.config/omarchy/shell.json</code>:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-json\" data-lang=\"json\">{\n  <span style=\"color:#f92672\">&#34;id&#34;</span>: <span style=\"color:#e6db74\">&#34;omarchy.clock&#34;</span>,\n  <span style=\"color:#f92672\">&#34;weekStartDay&#34;</span>: <span style=\"color:#e6db74\">&#34;monday&#34;</span>\n}\n</code></pre></div><img src=\"uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
-				"content_text": "I've wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.  \n\nTurns out you can just click the \"W\" in the calendar view.\n\nThat updates a setting in `~/.config/omarchy/shell.json`:\n\n\n```json\n{\n  \"id\": \"omarchy.clock\",\n  \"weekStartDay\": \"monday\"\n}\n```\n\n<img src=\"uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
+				"content_html": "<p>I&rsquo;ve wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.</p>\n<p>Turns out you can just click the &ldquo;W&rdquo; in the calendar view.</p>\n<p>That updates a setting in <code>~/.config/omarchy/shell.json</code>:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-json\" data-lang=\"json\">{\n  <span style=\"color:#f92672\">&#34;id&#34;</span>: <span style=\"color:#e6db74\">&#34;omarchy.clock&#34;</span>,\n  <span style=\"color:#f92672\">&#34;weekStartDay&#34;</span>: <span style=\"color:#e6db74\">&#34;monday&#34;</span>\n}\n</code></pre></div><img src=\"https://notes.matthewcanderson.com/uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
+				"content_text": "I've wasted too much time (twice) updating the default calendar in Omarchy to use Monday as the first day of the week.  \n\nTurns out you can just click the \"W\" in the calendar view.\n\nThat updates a setting in `~/.config/omarchy/shell.json`:\n\n\n```json\n{\n  \"id\": \"omarchy.clock\",\n  \"weekStartDay\": \"monday\"\n}\n```\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/screenshot-2026-10-16-14-17-10.png\" alt=\"The calendar displays the month of October 2026, highlighting the 16th as a Friday and showing the week number 42 on the left side.\">\n",
 				"date_published": "2026-10-16T14:23:38-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/10/16/ive-wasted-too-much-time.html"
 			},
