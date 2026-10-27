@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/10/27/testing-the-obsidian-journals-plugin.html",
+				
+				"content_html": "<p>Testing the Obsidian Journals plug-in&hellip; So far it hadn&rsquo;t added much value for me. Going to give it a good couple week trial.</p>\n",
+				"content_text": "Testing the Obsidian Journals plug-in... So far it hadn't added much value for me. Going to give it a good couple week trial.\n",
+				"date_published": "2026-10-27T13:06:09-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/27/testing-the-obsidian-journals-plugin.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/26/good-reminder-this-morning-from.html",
+				
+				"content_html": "<p>Good reminder this morning from the <a href=\"https://findingmastery.com\">Finding Mastery</a> course I&rsquo;m taking:</p>\n<blockquote>\n<p>Stress:</p>\n<ul>\n<li>is required for growth</li>\n<li>represents opportunity</li>\n<li>is a resource for performance</li>\n</ul>\n</blockquote>\n<p>Stress is part of good health. None is bad&hellip;so is too much. Balance is key.</p>\n",
+				"content_text": "Good reminder this morning from the [Finding Mastery](https://findingmastery.com) course I'm taking:\n\n> Stress:\n> - is required for growth\n> - represents opportunity\n> - is a resource for performance\n\nStress is part of good health. None is bad...so is too much. Balance is key. \n",
+				"date_published": "2026-10-26T10:45:42-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/26/good-reminder-this-morning-from.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/26/wow-about-later-i-have.html",
+				
+				"content_html": "<p>Wow, about $1 later, I have several more quality of life features. Quite satisfied!</p>\n<p>For anyone interested&hellip;here&rsquo;s the source: <a href=\"https://github.com/mathyousee/mb-quickpost-omarchy\">mathyousee/mb-quickpost-omarchy</a></p>\n",
+				"content_text": "Wow, about $1 later, I have several more quality of life features. Quite satisfied!\n\nFor anyone interested...here's the source: [mathyousee/mb-quickpost-omarchy](https://github.com/mathyousee/mb-quickpost-omarchy)\n",
+				"date_published": "2026-10-26T00:05:46-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/26/wow-about-later-i-have.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/25/im-testing-a-new-multiline.html",
+				
+				"content_html": "<p>I&rsquo;m testing a new multi-line version of my micro.blog posting tool.</p>\n<p>Cumulative active time spent building these variations&hellip;about 10 minutes.</p>\n",
+				"content_text": "I'm testing a new multi-line version of my micro.blog posting tool.\n\nCumulative active time spent building these variations...about 10 minutes.\n",
+				"date_published": "2026-10-25T23:33:12-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/25/im-testing-a-new-multiline.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/25/wow-now-i-used-my.html",
+				
+				"content_html": "<p>wow, now I used my default agent to create a simple quick-post to micro.blog feature, I&rsquo;m up and running in under 5 minutes! This could be addictive&hellip;</p>\n",
+				"content_text": "wow, now I used my default agent to create a simple quick-post to micro.blog feature, I'm up and running in under 5 minutes! This could be addictive...\n",
+				"date_published": "2026-10-25T23:18:18-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/25/wow-now-i-used-my.html"
+			},
+			{
+				"id": "http://mathyousee.micro.blog/2026/10/25/test-this-is-only-a.html",
+				
+				"content_html": "<p>Test, this is only a test</p>\n",
+				"content_text": "Test, this is only a test\n",
+				"date_published": "2026-10-25T23:16:29-05:00",
+				"url": "https://notes.matthewcanderson.com/2026/10/25/test-this-is-only-a.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/10/25/on-my-omarchy-setup-i.html",
 				
 				"content_html": "<p>On my Omarchy setup, I found that each time I restarted I was opening email apps on one virtual desktop with the <em>scrolling</em> option (Super + L) and and resizing them to take up most of the screen width. Once I realized this I had my default agent store and set those defaults so that&rsquo;d be automatic.</p>\n",
@@ -17,8 +65,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2026/10/24/gophs-win.html",
 				
-				"content_html": "<p>Gophs win!</p>\n<img src=\"uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "Gophs win!\n\n<img src=\"uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Gophs win!</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Gophs win!\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/11915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-10-24T19:19:44-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/10/24/gophs-win.html"
 			},
@@ -41,8 +89,8 @@
 			{
 				"id": "http://mathyousee.micro.blog/2026/10/18/continuing-my-linux-as-personal.html",
 				
-				"content_html": "<p>Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I&rsquo;ve set liberation-sans as the default font there.</p>\n<img src=\"uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
-				"content_text": "Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I've set liberation-sans as the default font there.\n\n\n<img src=\"uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
+				"content_html": "<p>Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I&rsquo;ve set liberation-sans as the default font there.</p>\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
+				"content_text": "Continuing my Linux as personal daily driver experiment. Today I took a few minutes to get fonts and printing sorted out. The default font used in Obsidian on Linux looked pretty bad printed out. Much better now that I've set liberation-sans as the default font there.\n\n\n<img src=\"https://notes.matthewcanderson.com/uploads/2026/screenshot-2026-10-18-09-59-18.png\" width=\"600\" height=\"151\" alt=\"\">\n",
 				"date_published": "2026-10-18T10:00:37-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/10/18/continuing-my-linux-as-personal.html"
 			},
