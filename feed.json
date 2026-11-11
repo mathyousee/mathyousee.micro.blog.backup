@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mathyousee.micro.blog/2026/11/11/it-seems-more-important-than.html",
+				
+				"content_html": "<p>It seems more important than ever to use something like the <a href=\"https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/\">Horizons of Focus</a> to align my time and energy. I have tried creating my own language around this concept, as none quite feels right, but this is close enough and a framework I can &ldquo;just use&rdquo;.</p>\n",
+				"content_text": "It seems more important than ever to use something like the [Horizons of Focus](https://gettingthingsdone.com/2011/01/the-6-horizons-of-focus/) to align my time and energy. I have tried creating my own language around this concept, as none quite feels right, but this is close enough and a framework I can \"just use\".\n",
+				"date_published": "2026-11-11T14:22:04-06:00",
+				"url": "https://notes.matthewcanderson.com/2026/11/11/it-seems-more-important-than.html"
+			},
+			{
 				"id": "http://mathyousee.micro.blog/2026/11/10/i-started-using-a-proper.html",
 				
 				"content_html": "<p>I started using a proper <a href=\"https://www.nerdfonts.com/\">Nerd Font</a> for my terminal 6-8 months ago. I keep forgetting which specific font it is that I <a href=\"https://github.com/ryanoasis/nerd-fonts/releases/download/v3.5.1/CascadiaCode.zip\">installed from the zip</a>. It is <code>caskaydiacovenerdfont-regular.ttf</code> which has a full name of <code>CaskaydiaCove NF Regular</code> when referenced.</p>\n",
@@ -86,7 +94,7 @@
 				
 				"content_html": "<p>Testing the Obsidian Journals plug-in&hellip; So far it hadn&rsquo;t added much value for me. Going to give it a good couple week trial.</p>\n",
 				"content_text": "Testing the Obsidian Journals plug-in... So far it hadn't added much value for me. Going to give it a good couple week trial.\n",
-				"date_published": "2026-10-27T12:06:09-06:00",
+				"date_published": "2026-10-27T13:06:09-05:00",
 				"url": "https://notes.matthewcanderson.com/2026/10/27/testing-the-obsidian-journals-plugin.html"
 			},
 			{
